@@ -1,0 +1,11403 @@
+ls
+cd rust/
+ls
+cd rustlings/
+ls
+nvim .
+ls
+n .
+ls
+cargo
+ls
+cargo --version
+nvim .
+ls
+cd rust/
+ls
+cd ..
+ls
+font
+fc-list
+ls
+cd zig
+ls
+nvim
+ls
+cd ziglings/
+ls
+nvim .
+zig build
+ls
+zig
+..
+cd ziglings/
+nvim .
+$env.PATH<\n>
+:q
+...
+ls
+list shells
+config nu
+env.config.buffer_editor = "neovim"
+$env.config.buffer_editor = "neovim"
+config nu
+ls
+$env.config.buffer_editor = "nvim"
+ls
+config nu
+nvim
+$env.config.buffer_editor = "nvim"
+config nu
+nvim
+nvim .config/nushell/
+zig
+ls
+cd Languages/
+ls
+cd zig
+ls
+nvim .config/nushell/
+zig
+ls
+cargo
+cargo --version
+nvim .config/nushell/
+cargo
+cargo --version
+zig
+nvim
+ls
+nvim .config/nushell/
+cargo
+rustup
+ls
+nvim .config/nushell/
+ls
+bun
+nvim
+config nu
+nvim .config/nushell/
+zig
+ls
+bun
+config nu
+nvim .config/nushell/
+config env nu
+config env
+config nu
+config env
+ls
+config env
+config nu
+ls
+config nu
+ls
+config nu
+ls
+bun
+ls
+bun run main.ts
+ls
+bun run main.ts
+ls
+bsh
+nvim ~/.config/omarchy/themes
+ghostty +list-themes
+ls
+nvim
+config nu
+nvim .
+ls
+ghostty +list-themes
+ls
+nvim .config/nvim/
+nvim
+ls
+config nu
+config env
+ls
+bun run main.ts
+ls
+cd golang/
+ls
+go run main.go
+ls
+cd ..
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+nvim .
+ls
+cd ..
+ls
+cd rust-keyword-analyzer/
+ls
+nvim .
+..
+...
+ls
+cd justin/
+ls
+nvim
+ls
+git clone git@github.com:JustinEphriam/kw-analyzer.git
+ls
+cd kw-analyzer/
+ls
+cd keyword/keyword-analyzer/
+nvim .
+nvim .
+ls
+cd keyword/keyword-analyzer/
+l
+ls
+nvim .
+go buid
+go build
+ls
+./keyword-analyzer
+ls
+nvim .
+go build
+./keyword-analyzer analyze ~/keyword/keyword-analyzer/examples/
+ls
+git add .
+git commit -m "Deleted unused function"
+git push
+ls
+nvim .
+ls
+...
+ls
+cd keyword/rust-keyword-analyzer/
+nvim .
+ls
+...
+ls
+cd golang/
+nvim .
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/keyword/keyword-analyzer/examples/
+cd ..
+ls
+cd rust-keyword-analyzer/
+ls
+cd target/
+ls
+cd rust-analyzer/
+ls
+cd ..
+ls
+cd ..
+ls
+cargo build
+cargo build --release
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/keyword/keyword-analyzer/examples/
+ls
+rm main.ts
+cd rust/
+ls
+cd rustlings/
+nvim .
+shutdown
+cd zig/ziglings/
+ls
+zig build
+ls
+zig build
+nvim .
+ls
+cd ..
+...
+ls
+cd justin/
+ls
+htop
+ls
+cd rust/rustlings/
+ls
+nvim .
+rustlings 
+shutdown
+cd rust/rustlings/
+nvim .
+rustlings
+cd rust/rustlings/
+ls
+htop
+btop
+ls
+lua
+ls
+mkdir lua
+cd lua/
+ls
+touch main.lua
+nvim .
+lua main.lua
+ls
+cd lua/
+nvim .
+lua main.lua
+nvim .
+lua main.lua
+nvim .
+lua main.lua
+nvim .
+lua main.lua
+nvim .
+nvim
+config env
+odin
+ls
+rm -rf lua
+ls
+mkdir odin
+ls
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+...
+ls
+cd justin/
+ls
+cd Languages/
+ls
+git clone https://github.com/DanielGavin/ols.git
+cd ols
+ls
+./build.sh
+ls
+./odinfmt.sh
+ls
+mv ols odinfmt ~/Languages/odin/
+ls
+cd odin
+s
+ls
+nvim .
+..
+ls
+nvim .config/nvim/
+ls
+cd odin/
+ls
+nvim .
+cd ..
+cd Languages/ols/
+ls
+nvim .
+cd ..
+ls
+rm -rf ols
+cd odin/
+nvim .
+cd odin/
+nvim .
+ls
+mkdir cli
+cd cli
+git clone https://github.com/GoNZooo/odin-cli.git
+ls
+touch main.odin
+ls
+nvim .
+ls
+nvim .
+ls
+odin build .
+nvim .
+ls
+cd ..
+ls
+mv cli play
+ls
+cd play/
+ls
+nvim .
+ls
+cd ..
+ls
+cd ..
+ls
+rm -rf odin
+ls
+cd golang/
+ls
+nvim .
+ls
+rm main.go
+ls
+mkdir cli
+ls
+cd cli/
+ls
+mkdir wc
+ls
+cd wc
+ls
+go mod init word-counter
+ls
+touch main.go
+nvim .
+go build
+nvim .
+go build
+nvim .
+go test
+nvim .
+go test
+nvm .
+nvim .
+go test
+nvim .
+ls
+cd zig/
+ls
+touch cli
+cd cli
+ls
+rm cli
+mkdir cli
+cd cli
+ls
+touch main.go
+nvim .
+ls
+mv main.go main.zig
+nvim .
+go build-exe main.zig
+zig build-exe main.zig
+ls
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+touch words.txt
+ls
+nvim 
+nvim .
+zig build-exe main.zig
+nvim .
+ls
+zig build-exe main.zig
+ls
+./main words.txt
+nvim .
+zig build-exe main.zig
+ls
+./main words.txt
+l
+ls
+nvim .
+ls
+touch main.odin
+nvim .
+ls
+odin build main.odin -file
+ls
+./main words.txt
+nvim .
+cd Languages/
+ls
+curl -OL https://github.com/roc-lang/roc/releases/download/alpha3-rolling/roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+tar -xf roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+rm -rf roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+mv roc_nightly-linux_x86_64-2025-03-22-c47a8e9/ roc
+ls
+cd roc
+ls
+sudo pacman -S glibc binutils
+ls
+config env
+nvim
+roc
+ls
+roc repl
+ls
+mkdir roc
+ls
+cd roc/
+ls
+touch main.roc
+ls
+nvim
+nvim .
+..
+ls
+nvim .config/nvim/
+ls
+cd roc/
+ls
+nvim .
+ls
+roc main.roc
+ls
+roc repl
+cd roc/
+ls
+nvim .
+roc main.roc
+ls
+nvim .
+ls
+git clone https://github.com/sqlite/sqlite.git
+ls
+cd keyword-analyzer/
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/sqlite/
+...
+ls
+cd golang/
+ls
+cd cli/
+ls
+cd wc/
+ls
+go test
+ls
+got test -v
+go test -v
+go build
+ls
+echo "My first command line too with go" | ./word-counter
+ls
+nvim .
+go build
+ls
+go test
+go test -v
+ls
+cat main.go | ./word-counter -l
+:w
+ls
+...
+ls
+cd ..
+ls
+htop
+shutdown
+curl -fsSL https://pixi.sh/install.sh | sh
+nvim
+nvim
+config env
+pixi
+ls
+mkdir mojo
+ls
+cd mojo/
+l
+sls
+ls
+pixi init example-project \<\n>  -c https://conda.modular.com/max-nightly/ -c conda-forge \<\n>  && cd example-project
+..
+ls
+mojo
+ls
+cd mojo/ls
+cd mojo/
+ls
+cd example-project/
+ls
+nvim .
+...
+ls
+max
+ls
+mojo life.mojo
+l
+./life
+ls
+nvim .
+mojo life.mojo
+ls
+mojo build life.mojo
+./life
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+mojo life.mojo
+nvim .
+pixi shell
+bash
+shutdown
+cd keyword/keyword-analyzer/
+nvim .
+ls
+...
+ls
+cd zig
+ls
+cd ziglings/
+zig build
+..
+ls
+cd cli
+ls
+..
+mkdir play
+cd play/
+zig init
+zig fetch
+nvim .
+...
+ls
+rm -rf mojo roc rust
+ls
+rm -rf golang/
+ls
+...
+cd Languages/
+cd zig/
+ls
+nvim .
+nvim .
+shutdown
+ls
+cd zig/
+ls
+cd ziglings/
+zig build
+nvim .
+ls
+zig build
+nvim .
+cd Languages/zig/
+ls
+nvim .
+...
+ls
+nvim .config/nvim/
+nvim
+ls
+nvim
+nvim .config/nvim/
+nvim
+nvim .config/nvim/
+nvim
+nvim .config/nvim/
+nvim
+mkdir roc
+ls
+cd roc/
+ls
+touch main.roc
+nvim .
+roc main.roc
+ls
+./main
+ls
+rm -rf roc
+mkdir odin
+mkdir rust
+cd rust/
+cargo install rustlings
+rustlings init
+ls
+cd rustlings/
+ls
+nvim .
+ls
+nvim .
+rustlings
+ls
+cd keyword/rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/sqlite/
+...
+ls
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/sqlite/
+..
+ls
+cd rust-keyword-analyzer/target/release/
+ls
+./rust-keyword-analyzer analyze ~/sqlite/
+....
+ls
+..
+ls
+git clone https://github.com/FFmpeg/FFmpeg.git
+ls
+./rust-keyword-analyzer analyze ~/FFmpeg/
+....
+ls
+cd rust-keyword-analyzer/
+nvim .
+ls
+cd kw-analyzer/
+ls
+cd ..
+sl
+ls
+cd kw-analyzer/
+ls
+cd ..
+cd keyword/keyword-analyzer/
+nvim .
+ls
+./keyword-analyzer analyze ~/sqlite/
+./keyword-analyzer analyze ~/FFmpeg/
+ls
+cd ...
+ls
+cd odin/
+ls
+..
+cd zig/
+ls
+nvim 
+..
+nvim
+cd .config/nvim/
+ls
+git add ,
+git add .
+git commit -m "stuff"
+git push
+...
+ls
+git clone git@github.com:JustinEphriam/My-QoL.git
+ls
+cd My-QoL/
+l
+ls
+nvim .
+cd .config/nushell/
+ls
+touch config.nu
+ls
+touch env.nu
+ls
+nvim .
+ls
+git add .
+git commit -m "ghostty and nushell updated"
+git push 
+Lls
+nvim .
+cd odin/
+nvim .
+touch main.odin
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+cd rust/
+ls
+rm -rf odin rust
+ls
+rm -rf keyword/
+rm -rf kw-analyzer/
+ls
+cd zig/
+ls
+nvim  .
+ls
+cd ziglings/
+ls
+nvim .
+ls
+cd ,,
+..
+ls
+rm -rf ziglings/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+ls
+zib build
+zig build
+ls
+nvim .
+zig build
+nvim .
+zig build
+nvim .
+cd zig/
+cd ziglings/
+nvim .
+zig build
+nvim .
+shutdown
+ls
+mkdir odin
+cd odin/
+ls
+touch main.odin
+nvim .
+odin build .
+nvim 
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim 
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+touch main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+ls
+rm main.go
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+nvim
+ls
+cd Languages/
+cd zig/
+ls
+nvim .
+cd ..
+ls
+cd ..
+ls
+cd zig
+ls
+cd cli
+ls
+cd ..
+ls
+cd play/
+ls
+nvim .
+ls
+..
+ls
+mkdir read
+cd read/
+ls
+touch main.zig
+nvim .
+ls
+zig build-exe main.zig
+cd Languages/
+ls
+cd zig
+ls
+nvim .
+nvim .
+ls
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+ls
+touch test.txt
+nvim .
+touch test.txt
+ls
+nvim .
+./main test.txt
+nvim .
+./main 1
+:q
+shutdown 
+ls
+mkdir rust
+ls
+cd rust/
+ls
+rustlings init
+lds
+ls
+cargo new play
+cd play/
+ls
+nvim .
+ls
+cargo build
+ls
+cd target/debug/
+ls
+./play
+cd ..
+ls
+cd ..
+ls
+cargo run
+sudo pacman -S zed
+cd rust/
+cd play/
+zed .
+zed
+nvim .
+ls
+rm -rf rust/ zig/ odin/
+ls
+mkdir golang
+cd golang/
+ls
+touch main.go
+nvim .
+go run main.go
+ls
+nvim .
+go run main.go
+nvim .
+cd ..
+ls
+mkdir zig
+ls
+cd zig/
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main
+nvim .
+./main
+zig build-exe main.zig
+./main
+nvim .
+cd zig/
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+ls
+zig build
+ls
+zig build
+nvim .
+zig build
+nvim .
+mkdir odin
+cd odin/
+ls
+touch main.odin
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+la
+ls
+..
+ls
+rm -rf zig golang/
+ls
+sudo pacman -S timeshift
+ls
+sudo timeshift --create
+sudo timeshift --list
+reboot
+cd odin/
+ls
+nvim .
+odin build main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown 
+ls
+mkdir rust
+cd rust/
+rustlings init
+ls
+cd rustlings/
+ls
+nvim .
+zed .
+nvim .
+...
+ls
+rustlings
+bun
+ls
+mkdir typescript
+cd typescript/
+ls
+touch main.ts
+nvim .
+bun run main.ts
+ls
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun
+bun init keyword-analyzer
+ls
+cd keyword-analyzer/
+nvim .
+cd ,,
+..
+ls
+rm -rf keyword-analyzer/
+ls
+cd ..
+ls
+rm -rf typescript/
+ls
+rm -rf rust/
+ls
+mkdir roc
+ls
+cd roc/
+touch main.roc
+nvim .
+roc main.roc
+ls
+./main
+ls
+nvim .
+ls
+cd ..
+ls
+rm -rf roc
+ls
+cd odin
+l
+nvim .
+ls
+mkdir zig
+cd zig
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+ls
+zig build
+nvim
+:q
+cd zig/
+ls
+cd ziglings/
+nvim .
+ls
+mkdir rust
+cd rust/
+rustlings init
+ls
+..
+ls
+cd odin/
+ls
+mkdir golang
+cd golang/
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+ls
+rm main
+ls
+zig build-exe main.zig
+ls
+./main
+nvim .
+shutdown
+cd zig/ziglings/
+zig build
+nvim .
+zig build
+...
+cd odin/
+ls
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+ls
+mkdir typescript
+cd typescript/
+touch main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim 
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+nvim .
+ls
+cd zig
+ls
+cd ..
+ls
+cd typescript/
+ls
+nvim .
+ls
+..
+cd zig/
+ls
+cd typescript/
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+ls
+cd typescript/
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+bun run grades.ts
+nvim .
+bun run grades.ts
+nvim .
+bun run grades.ts
+ls
+cd typescript/
+ls
+nvim .
+bun run grades.ts
+nvim .
+bun run grades.ts
+nvim .
+ls
+cd typescript/
+ls
+cd Documents/..
+cd odin/
+nvim .
+ls
+mkdir grades
+cd grades/
+touch main.odin
+nvim .
+ls
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+:q
+nvim .
+shutdown
+cd odin/
+ls
+nvim .
+ls
+cargo new play
+cd  play/
+nvim .
+ls
+cargo run play
+ls
+..
+ks
+ls
+cp text.txt ~/odin/play/
+cd play/
+nvim .
+cargo run play
+nvim .
+ls
+cd ..
+ls
+cd grades/
+ls
+cd ..
+..
+ls
+cd typescript/
+nvim .
+ls
+touch main.rs
+nvim .
+ls
+rm main.rs
+ls
+cargo new grades
+cd grades/
+nvim .
+cargo run grades
+nvim .
+cd ..
+ls
+cd ..
+ls
+rm -rf zig typescript/ odin/ golang/
+ls
+cd rust/
+ls
+:q
+ls
+cd rust/
+ls
+mkdir projects
+cd projects/
+touch main.rs
+nvim .
+rustc main.rs
+ls
+./main
+ls
+rm -rf main main.rs target/
+ls
+cargo new hello_cargo
+cd hello_cargo/
+nvim .
+cargo build
+cargo run
+ls
+cargo run
+ls
+cd ..
+ls
+git clone example.org/someproject
+ls
+rm -rf hello_cargo/
+ls
+cargo new guessing_game
+cd guessing_game/
+ls
+nvim .
+cargo run
+nvim .
+:q
+cd rust/projects/
+ls
+cd guessing_game/
+ls
+nvim .
+cargo build
+nvim .
+cargo build
+nvim .
+cargo build
+nvim .
+cargo build
+cargo run
+ls
+nvim .
+cargo build
+nvim .
+cargo build
+nvim .
+cargo build
+nvim .
+cargo update
+nvim .
+cargo update
+nvim .
+cargo build
+nvim .
+cargo run
+nvim .
+cargo build
+nvim .
+cargo build
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+yay -S monaspace-font
+ghostty +list-fonts<\n>
+ls
+nvim .
+ls
+cd rust/
+ls
+cd rustlings/
+nvim .
+ghostty +list-fonts<\n>
+nvim
+nvim .
+ls
+cd rust/
+ls
+nvim .
+nvim
+nvim .
+ls
+nvim .
+ls
+nvim .
+ls
+nvim .
+cd rust/
+nvim .
+ls
+cd rustlings/
+nvim .
+ls
+mkdir python
+cd python/
+touch main.py
+nvim .
+python3 main.py
+python
+ls
+python --version
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim .
+go run main.go
+ls
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim 
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim  .
+cd rust/
+ls
+cd projects/
+ls
+cargo new lol
+cd lol
+nvim .
+cargo run
+nvim .
+ls
+...
+..
+ls
+mkdir zig
+ls
+cd zig/
+touch main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+ls
+cd ..
+ls
+rm -rf rust/
+ls
+rm -rf golang/
+ls
+cd zig
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd zig
+ls
+nvim .
+ls
+touch lol.zig
+nvim .
+zig build-exe lol.zig
+nvim .
+zig build-exe lol.zig
+nvim .
+zig build-exe lol.zig
+ls
+./lol
+nvim .
+ls
+cd ..
+ls
+rm -rf python
+ls
+cd Languages/
+ls
+cd zig
+ls
+nvim .
+cd ..
+ls
+cd zig
+s
+nvim .
+zig build run lol.zig
+zig help
+zig run lol.zig
+nvim .
+htop
+shutdown
+cd Languages/
+nvim .
+cd ..
+ls
+cd zig
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim .
+odin build main.odin -file
+nvim .
+odin build main.odin -file
+nvim .
+odin build main.odin -file
+nvim .
+odin build main.odin -file
+nvim .
+odin build main.odin -file
+ls
+./main
+nvim .
+nvim .
+cd odin
+ls
+nvim .
+odin build main.odin -file
+./main
+nvim .
+odin build main.odin -file
+./main
+nvim .
+ls
+nvim .
+cd odin/
+ls
+nvim .
+ls
+rm -rf zig odin
+ls
+mkdir rust
+cd rust/
+rustlings init
+ls
+cd rustlings/
+nvim .
+rustlings
+ls
+mkdir roc
+cd roc/
+touch main.roc
+ls
+nvim .
+ls
+roc main.roc
+ls
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+ls
+nvim .
+roc main.roc
+ls
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+:q
+..
+ls
+rm -rf roc
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim  .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+cd ..
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim  .
+go run main.go
+nvim .
+go run main.go
+nvim .
+:q
+ls
+shutdown
+cd odin/
+l
+ls
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+./main.odin
+./main
+ls
+./odin
+nvim .
+odin build .
+nvim .
+odin build .
+nvim .
+odin build .
+./odin
+nvim .
+./odin
+odin build .
+./odin
+nvim .
+./odin
+odin build .
+./odin
+nvim .
+odin build .
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+odin build .
+./odin
+nvim .
+shutdown
+ls
+cd golang/
+ls
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+ls
+cd rust/
+ls
+cargo new vectors
+cd vectors/
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+...
+ls
+cd Documents/
+ls
+rustup
+rustup update
+cargo install
+cargo install rust-analyzer
+$ rustup component add rust-src<\n>
+shutdown
+ls
+cd rust/
+ls
+cd vectors/
+nvim 
+nvim
+cd rust/
+cd vectors/
+nvim .
+cd rust/vectors/
+nvim .
+nvim rust/vectors/
+cargo run
+ls
+cd rust/vectors/
+cargo run
+nvim  .
+nvim.
+cd...
+...
+nvim .config/nvim/
+ls
+cd odin
+ls
+nvim .
+cd .config/nvim/
+...
+ls
+cd justin/
+cd .config/nvim/
+ls
+gitg add .
+git add .
+git commit -m "diagnostic keybind added"
+git push
+cd ..
+ls
+..
+ls
+sudo timeshift --create
+sudo timeshift --list
+sudo pacman -Syu
+nvim rust/vectors/
+ls
+cd sqlite/
+nvim .
+cd ..
+ls
+git clone git@github.com:JustinEphriam/keyword.git
+ls
+cd keyword/
+ls
+nvim .
+ls
+git add .
+git commit -m "cleaning up warnings"
+git push
+ls
+cd rust-keyword-analyzer/
+ls
+cargo build
+ls
+nvim .
+ls
+cargo build --release
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/sqlite/
+./rust-keyword-analyzer analyze ~/FFmpeg/
+nvim .
+....
+ls
+..
+ls
+cd rust/
+nvim .
+ls
+cd vectors/
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+reboot
+ls
+shutdown
+ls
+cd rust/
+nvim .
+cd rustlings/
+..
+ls
+git clone https://github.com/rust-lang/rust.git
+ls
+cd rust/
+ls
+nvim .
+..
+ls
+..
+ls
+mdkir zig
+mkdir zig
+ls
+cd zig
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+..
+ls
+cd odin
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+..
+ls
+cd zig
+ls
+touch main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim.
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+cd zig/ziglings/
+zig build
+nvim .
+brop
+btop
+htop
+ls
+cd zig/
+ls
+mkdir copy
+ls
+cd copy
+ls
+zig init
+ls
+nvim .
+zig build
+zig run
+zig run copy
+zig run main.zig
+ls
+nvim .
+zig build test
+nvim .
+zig
+:q
+ls
+nvim .
+ls
+nvim .
+...
+ls
+cd odin
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+cd odin/
+ls
+nvim  .
+ls
+mkdir keyword-analyzer
+cd keyword-analyzer/
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+mdkir c
+mkdir c
+ls
+touch maim.odin
+git init
+git add .
+git commit -m "init"
+ls
+nvim .
+odin run main.odin -file
+ls
+git add .
+got commit -m "fixed a typo"
+git commit -m "fixed a typo"
+ls
+...
+ls
+cd odin/
+ls
+cd keyword-analyzer/
+nvim .
+nvim  .
+nvim .
+ls
+odin test
+nvim .
+odin test
+odin test main.odin
+odin test main.odin -file
+nvim  .
+odin test main.odin -file
+odin test c_analyzer
+nvim .
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+git add .
+git commit -m "c_keywords and char table complete"
+nvim .
+shutdown
+ls
+rm -rf rust odin golang
+ls
+cd zig
+ls
+cd zig/
+ls
+cd ziglings/
+zig build
+cd zig
+ls
+nvim .
+ls
+nvim .
+zig test main.zig
+nvim .
+zig test main.zig
+nvim .
+zig test main.zig
+nvim .
+zig 
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+ls
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig test main.zig
+;q
+ls
+nvim .
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+s
+ls
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+:q
+shutdown
+ls
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+cd zig
+ls
+nvim .
+..
+cd odin/
+nvim .
+..
+cd zi
+cd zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+..
+ls
+cd odin
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+vnim .
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+..
+ls
+mkdir typescript
+cd typescript/
+touch main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+..
+ls
+mkdir cpp
+cd cpp
+ls
+touch main.cpp
+nvim .
+zig cpp main.cpp
+c++ main.cpp
+ls
+g++ --version
+clang --version
+clang++ --version
+ls
+nvim .
+ls
+g++ -std=c++23 main.cpp -o program
+ls
+./program
+nvim .
+clangd --version
+nvim
+nvim .
+ls
+nvim .
+nvim .config/nvim/
+..
+l
+sls
+ls
+nvim .config/nvim/
+cd cpp
+ls
+nvim .
+ls
+g++ main.cpp
+nvim
+cd cpp
+ls
+nvim .
+ls
+g++ main.cpp
+ls
+cd cpp
+ls
+nvim .
+g++ main.cpp
+clang++ main.cpp
+c++ main.cpp
+clang++ -std=c++23 -stdlib=libc++ -lc++ -lc++abi main.cpp
+ls
+./a.out
+zig c++ -std=c++23 main.cpp -o program<\n>
+ls
+./program
+zig c++ -std=c++23 main.cpp -o program<\n>
+ls
+zig c++ -std=c++23 main.cpp -o program
+ls
+nvim .
+nvim
+ls
+touch .clang-format
+nvim
+nvim .
+nvim
+nvim .
+zig c++ -std=c++23 main.cpp -o program
+ls
+./program
+nvim .
+./program
+zig c++ -std=c++23 main.cpp -o program
+./program
+nvim .
+zig c++ -std=c++23 main.cpp -o program
+./program
+nvim .
+cd ..
+ls
+rm -rf typescript/ zig/ cpp
+ls
+cd odin/
+nvim .
+shutdown
+ls
+mkdir zig
+cd zig
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+touch main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+cd ..
+ls
+rm -rf zoig
+rm -rf zig
+ls
+cd odin
+nvim .
+..
+ls
+cd sqlite/
+nvim .
+cd odin
+ls
+mkdir db
+cd db
+ls
+touch main.odin
+nvim .
+rm -rf odin
+ls
+mkdir rust
+cd rust
+ls
+rustlings init
+ls
+mkdir roc
+cd roc
+touch main.roc
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+..
+ls
+rm -rf roc
+ls
+cd rust/
+ls
+mkdir odin
+cd odin/
+nvim .
+odin run main.odin -file
+ls
+nvim .
+ls
+git clone https://github.com/odin-lang/examples.git
+ls
+cd examples/
+ls
+cd odin/
+cd examples/
+ls
+cd absolute_beginners/
+odin run .
+..
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+ls
+nvim .
+ls
+rm -rf rust/
+mkdir golang
+cd golang/
+touch main.go
+nvim .
+shutdown
+ls
+cd odin/
+ls
+nvim .
+cd ..
+ls
+mkdir zig
+cd zig
+touch main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+nvim .
+ls
+git clone git clone https://codeberg.org/ziglings/exercises.git ziglings
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+zig build
+nvim .
+zig build
+nvim .
+zig build
+nvim .
+ls
+mkdir rust
+cd rust/
+rustlings init
+cd rust/rustlings/
+nvim .
+rustlings
+ls
+cd golang/
+nvim .
+shutdown
+ls
+mkdir nuscripts
+cd nuscripts/
+touch git-replay.nu
+nvim .
+cd ..
+ls
+git clone https://github.com/ghostty-org/ghostty.git
+ls
+cd ghostty/
+ls
+cd ..
+cd nuscripts/
+ls
+cp git-replay.nu ~/ghostty/
+ls
+..
+cd ghostty/
+ls
+nu git-replay.nu
+nvim .
+ls
+nu git-replay.nu reset
+ls
+rm -rf git-replay.nu
+touch git-replay.sh
+nvim .
+ls
+chmod +x git-replay.sh
+ls
+./git-replay.sh
+ls
+nvim .
+:Ex
+nvim
+ls
+cat .git/replay_state.txt
+nvim .
+ls
+./git-replay.sh next
+ls
+./git-replay.sh back
+./git-replay.sh next
+ls
+rm -rf git-replay.sh
+cd ..
+ls
+rm -rf ghostty/
+..
+git clone https://github.com/ghostty-org/ghostty.git
+touch git-replay.sh
+nvim .
+chmod +x git-replay.sh
+ls
+mv git-replay.sh ~/ghostty/
+cd ghostty/
+nvim .
+./git-replay.sh reset
+ls
+nvim .
+./git-replay.sh next
+ls
+nvim .
+./git-replay.sh next
+nvim .
+ls
+./git-replay.sh next
+ls
+git checkout master
+git checkout 
+ls
+git checkout head
+ls
+cd ..
+ls
+rm -rf ghostty/
+ls
+git clone https://github.com/ghostty-org/ghostty.git
+ls
+cd ghostty/
+ls
+touch git-replay.sh
+nvim .
+ls
+chmod +x git-replay.sh
+ls
+./git-replay.sh clean
+./git-replay.sh reset
+ls
+./git-replay.sh next
+ls
+./git-replay.sh next
+cd ..
+ls
+rm -rf ghostty/
+ls
+git clone https://github.com/ghostty-org/ghostty.git
+ls
+cd ghostty/
+ls
+touch git-replay.sh
+nvim .
+chmod +x git-replay.sh
+./git-replay.sh clean
+./git-replay.sh reset
+ls
+./git-replay.sh next
+ls
+git checkout main
+ls
+cd ghostty/
+ls
+rm -rf git-replay.sh
+touch git-replat.sh
+nvim .
+ls
+nvim .
+cd ..
+ls
+mkdir bash-scripts
+cd bash-scripts/
+touch git-replat.sh
+nvim .
+..
+cd ghostty/
+ls
+..
+cd bash-scripts/
+nvim .
+cd ..
+ls
+cd ghostty/
+ls
+./git-replay.sh reset
+ls
+nvim .
+./git-replay.sh next
+ls
+cd ghostty/
+ls
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+ls
+nvim .
+nvim .
+./git-replay.sh next
+nvim .
+cd ..
+ls
+sudo pacman -S nix
+ls
+nix --version
+ls
+cd .config/
+ls
+..
+ls
+mkdir -p ~/.config/nix
+ls
+cd ghostty/
+ls
+nvim .
+./git-replay.sh reset
+ls
+nvim .
+ls
+nvim
+ls
+mkdir replay-ghostty
+cd replay-ghostty/
+ls
+nvim 
+touch shell.nix
+nvim .
+touch flake.nix
+nvim .
+ls
+touch .gitignore
+nvim .
+nvim 
+ls
+touch .envrc
+ls
+nvim .
+nvim
+nvim
+nix develop
+ls
+cd ..
+ls
+rm -rf replay-ghostty/
+ls
+cd ghostty/
+ls
+./git-replay.sh next
+ls
+mkdir replay-ghostty
+cd replay-ghostty/
+ls
+./git-replay.sh next
+touch README.md
+nvim .
+git init
+git commit -m "init"
+git add .
+nvim .
+git add .
+git commit -m "init"
+./git-replay.sh status
+ls
+nvim .
+..
+ls
+cd odin
+ls
+cd examples/
+nvim .
+./git-replay.sh next
+ls
+odin run .
+odin run /src
+odin run main
+cd src
+ls
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+..
+ls
+odin build .
+cd src
+ls
+odin build .
+glfw
+odin
+ls
+...
+ls
+cd odin/
+ls
+..
+cd Languages/
+ls
+cd odin/
+ls
+cd vendor/
+ls
+...
+ls
+..
+ls
+odin build .
+ls
+nvim .
+./src
+ls
+..
+ls
+rm main
+ls
+cd src/
+ls
+rm src
+cd ..
+ls
+odin build .
+cd src
+ls
+odin build .
+./src
+nvim .
+./git-replay.sh next
+..
+ls
+..
+ls
+cd replay-ghostty/p
+cd replay-ghostty
+ls
+rm build.sh
+ls
+git add .
+git commit -m "glfw and window set up"
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+git clone https://github.com/tsoding/b.git
+ls
+cd ghostty/
+ls
+cp git-replay.sh ~/b
+cd ..
+ls
+cd b
+ls
+./git-replay.sh reset
+s
+ls
+nvim .
+ls
+zed .
+b
+cd b
+ls
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+ls
+git clone https://github.com/rust-lang/rust.git
+mkdir rustc
+cd rustc/
+ls
+...
+ls
+cd justin/
+ls
+cd bash-scripts/nvim .
+cd bash-scripts
+nvim .
+ls
+cd ..
+ls
+cd bash-scripts/
+ls
+mv git-replat.sh git-replay.sh
+ls
+git clone https://github.com/rust-lang/rust.git
+ls
+cp git-replay.sh ~/rustc/rust/
+nvim .
+cd rust/
+ls
+./git-replay.sh reset
+cd rustc/rust/
+ls
+./git-replay.sh reset
+ls
+./git-replay.sh reset
+./git-replay.sh back
+...
+ls
+rm -rf rustc
+ls
+mkdir zigc
+cd zigc
+..
+ls
+rm -rf nuscripts/
+ls
+cd ghostty/
+ls
+git clone https://github.com/ziglang/zig.git
+ls
+cp git-replay.sh ~/zigc/zig
+..
+ls
+..
+cd
+ls
+cd zigc
+l
+ls
+cd zig
+ls
+./git-replay.sh reset
+nvim .
+./git-replay.sh reset
+ls
+nvim .
+./git-replay.sh next
+ls
+nvim .
+./git-replay.sh next
+ls
+nvim .
+./git-replay.sh next
+ls
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+ls
+./git-replay.sh next
+./git-replay.sh back
+ls
+./git-replay.sh clear
+./git-replay.sh clean
+ls
+./git-replay.sh reset
+git stash
+./git-replay.sh reset
+./git-replay.sh next
+cd zigc
+ls
+cd zig
+lls
+ls
+nvim .
+./git-replay.sh status
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+...
+ls
+mkdir rustc
+cd rustc
+ls
+..
+cd zigc
+ls
+cd zig
+ls
+git clone https://github.com/rust-lang/rust.git
+ls
+cp git-replay.sh ~/rustc/rust/
+cd rust/
+ls
+./git-replay.sh reset
+ls
+nvim .
+./git-replay.sh next
+nvim .
+nvi, .
+nvim .
+./git-replay.sh next
+ls
+rm -rf b/ ghostty/ rustc/
+ls
+rm -rf sqlite/ 
+rm -rf FFmpeg/
+ls
+rm -rf replay-ghostty/
+ls
+cd zigc/
+ls
+nvim .
+cd zig
+shutdown
+ls
+cd zigc
+ls
+cd zig
+nvim 
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+ls
+rm -rf odin
+ls
+lcd golang/
+cd golang
+nvim .
+ls
+cd zig
+ls
+mkdir keyword-analyzer
+cd keyword-analyzer/
+ls
+zig init
+nvim .
+ls
+touch README.md
+nvim .
+ls
+git init
+git add .
+git commit -m "init"
+ls
+nvim .
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+...
+ls
+cd zig/keyword-analyzer/
+ls
+nvim .
+nvim .
+ls
+git add .
+git commit -m "c keywords and char table done"
+ls
+npm install -g @anthropic-ai/claude-code
+sudo npm install -g @anthropic-ai/claude-code
+ls
+claude
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+claude
+nvim .
+go build
+ls
+./keyword-analyzer analyze ~/keyword/keyword-analyzer/examples/
+ls
+nvim .
+ls
+cd ..
+ls
+mv keyword-analyzer/ keyword-analyzer-zig
+ls
+..
+ls
+cp keyword-analyzer-zig/ ~/keyword/keyword-analyzer/
+cp keyword-analyzer-zig/ ~/keyword/keyword-analyzer/ --recursive
+ls
+cd keyword-analyzer/
+ls
+nvim
+cd keyword-analyzer-zig/
+ls
+zig build
+nvim .
+git add .
+git commit -m "typos"
+shutdown
+ls
+cd zigc
+cdzig
+cd zig
+ls
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+ls
+cd golang/
+ls
+nvim .
+go run main.go
+nvim .
+ls
+mkdir data
+cd data
+ls
+rm -rf golang/
+ls
+rm -rf rust
+ls
+mkdir odin
+cd odin/
+nvim .
+odin run main.odin -file
+ls
+lnvim .
+ls
+cd..
+..
+ls
+rm -rf odin
+ls
+mdkdir golang
+mkdir golang
+cd golang/
+ls
+mkdir dsa
+cd dsa
+ls
+nvim .
+go run main.go
+ls
+cd..
+..
+ls
+rm -rg golang/
+rm -rf golang/
+ls
+mkdir cpp
+ls
+cd cpp
+touch main.cpp
+nvim .
+c++ main.cpp
+ls
+./a.out
+nvim .
+./a.out
+c++ main.cpp
+./a.out
+cd cpp
+ls
+nvim .
+c++ main.cpp
+ls
+./a.out
+nvim .
+./a.out
+nvim .
+touch main.c
+nvim .
+c main.c
+zig
+cc main.c
+ls
+rm -rf main.cpp
+ls
+cc main.c
+./a.out
+cd ..
+ls
+rm -rf cpp
+ls
+mkdir c
+cd c
+touch main.c
+nvim .
+cc main.c
+./a.out
+nvim .
+cc main.c
+./a.out
+cd c/
+ls
+nvim .
+cc main.c
+./a.out
+nvim .
+:Q
+..
+ls
+rm -rf c
+mkdir odin
+mkdir ruby
+cd ruby/
+ls
+touch main.rb
+nvim .
+ruby main.rb
+ls
+ruvy --version
+ruby --version
+ls
+rm -rf ruby/
+ls
+cd odin
+ls
+touch main.odin
+nvim .
+touch main.odin
+ls
+nvim .
+odin run main.odin -file
+ls
+nvim .
+ls
+bash -c "sh <(curl -fsSL https://opam.ocaml.org/install.sh)"
+opam
+opam init
+eval $(opam env --switch=default)
+bas
+ls
+config env
+opam
+dune
+opam install ocaml
+opam install dune
+opam install merlin
+eval $(opam env)
+opam install ocaml-lsp-server
+ls
+mkdir ocaml
+ls
+cd ocaml/
+ls
+touch main.ml
+nvim .
+ocamlc main.ml
+ocaml linear_search.ml
+ls
+cd ocaml/
+ls
+eval $(opam env)
+opam
+opam init
+ls
+opam
+ocaml main.ml
+which ocaml
+opam install ocaml
+eval (opam env)
+config env
+ls
+cd ocaml/
+ls
+ocaml main.ml
+config env
+nvim
+opam
+ocaml
+which ocaml
+opam
+nvim
+opam remove opam
+opam list
+ls
+opam
+sudo pacman -Rns opam<\n>
+nvim
+ls
+which opam<\n>
+sudo rm /usr/local/bin/opam<\n>
+rm -rf ~/.opam
+rm -f ~/.config/opam
+ls
+opam
+nvim 
+config env
+ls
+mkdir rust
+cd rust/
+ls
+rustlings init
+ls
+cd rustlings/
+ls
+rm -rf rust/
+ls
+mkdir roc
+ls
+cd roc/
+ls
+touch main.roc
+ls
+nvim .
+ls
+roc main.roc
+ls
+./main
+ls
+nvim .
+roc main.roc
+nvim .
+rm -rf roc
+ls
+rm -rd odin
+rm -rf odin
+ls
+cd zig/
+ls
+cd zig
+ls
+nvim .
+cd keyword-analyzer-zig/
+nvim .
+..
+nvim 
+nvim  .
+ls
+..
+ls
+rm -rf zig zigc
+ls
+mkdir rust
+ls
+cd rust/
+rustlings init
+cargo new play
+cd play/
+nvim .
+ls
+cargo run
+nvim .
+cargo run
+nvim .
+cargo format
+cargo fmt
+nvim .
+cargo run
+cargi build
+cargo build
+cargo run
+nvim 
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+ls
+:q
+ls
+..
+la
+..
+ls
+git clone https://github.com/sqlite/sqlite.git
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+go build
+ls
+./keyword-analyzer analyze ~/sqlite/
+nvim .
+lw
+ls
+git add .
+git commit -m "took out enum to string look up"
+git push 
+nvim .
+go test
+nvim .
+go test fast
+go test
+go test keyword-analyzer
+cd internal/fast/
+ls
+go test
+shutdown
+ls
+rm -rf rust/
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+cd bash-scripts/
+ls
+nvim .
+..
+mkdir goc
+cd goc/
+git clone https://github.com/golang/go.git
+ls
+cd ..
+ls
+cd bash-scripts/
+;s
+ls
+cp git-replay.sh ~/goc/go
+..
+cd goc
+cd go
+ls
+./git-replay.sh reset
+cd goc/go
+ls
+./git-replay.sh reset
+nvim .
+./git-replay.sh reset
+ls
+nvim ..
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+ls
+cd Documents/
+ls
+touch early-gospec.txt
+nvim .
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+./git-replay.sh next
+nvim .
+ls
+mkdir roc
+cd roc
+ls
+touch main.roc
+nvim .
+roc main.roc
+ls
+./main
+ls
+cd roc
+nvim .
+roc main.roc
+ls
+git clone https://github.com/bytexenon/The-Tiny-Lua-Compiler.git
+ls
+cd The-Tiny-Lua-Compiler/
+nvim .
+cd The-Tiny-Lua-Compiler/
+nvim .
+ls
+shutdown
+ls
+rm -rf roc
+ls
+mkdir c
+touch main.c
+nvim .
+cd c
+nvim .
+ls
+gcc unity.c -o hello
+ls
+./hello
+ls
+nvim .
+gcc unity.c -o hello
+./hello
+nnvim .
+nvim .
+nnvim .
+gcc unity.c -o hello
+./hello
+ls
+nvim .
+shutdown
+ls
+nvim 
+l
+nvim .
+cd c
+ls
+clang unity.c
+ls
+./a.out
+nvim .
+ls
+rm -rf c
+l
+ls
+mkdir zig
+xd cig
+cd zig
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+l
+ls
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvm .
+nvim .
+nvm .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+cd  ..
+cd Languages/
+ls
+cd zig
+la
+nvim  .
+cd zig/
+ls
+ls
+la
+ls
+cd odin
+ls
+touch linear.odin
+nvim  .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+odin run linear.odin -file
+nvim .
+ls
+zig build-exe main.zig
+nvim .
+odin run linear.odin -file
+odin build linear.odin -file
+ls
+nvim .
+..
+ls
+mkdir c
+cd c
+touch linear.c
+nvim .
+gcc linear.c
+ls
+./a.out
+nvim .
+nvim .
+ls
+rm -rf zig odin
+ls
+cd c
+ls
+nvim .
+ls
+rm -r fc
+rm -rf c
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim .
+odin build main.odin -file
+./main
+ls
+cd ..
+ls
+rm -rf odin
+mkdir zig
+cd zig
+touch main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+..
+ls
+git clone https://github.com/oven-sh/bun.git
+ls
+cd bun
+ls
+nvim .
+ls
+cd ..
+ls
+mkdir rus
+rm -rf rus
+mkdir rust
+ls
+cd rust/
+nvim .
+ls
+rm :q
+ls
+cargo new play
+cd play/
+ls
+nvim .
+cargo run play
+nvim .
+cargo run play
+nvim .
+cargo run play
+nvim .
+cargo run play
+nvim .
+cargo run play
+nvim  .
+cargo run play
+nvim .
+ls
+rm -rf zig rust
+ls
+rm -rf bun
+ls
+mkdir c
+cd c
+touch main.c
+nvim .
+gcc main.c
+ls
+./a.out
+nvim .
+ls
+rm a.out main.c
+ls
+git clone https://github.com/redis/redis.git
+ls
+cd redis/
+nvim .
+ls
+rm -rf c
+ls
+mkdir cpp
+cd cpp
+touch main.cpp
+nvim .
+c++ main.cpp
+ls
+./a.out
+ls
+nvim .
+shutdown
+ls
+rm -rf cpp
+ls
+mkdir cpp
+cd cpp
+ls
+touch main.cpp
+nvim .
+g++ main.cpp
+ls
+rm a.out
+g++ main.cpp -o main
+ls
+./main
+ls
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+cd ..
+ls
+rm -rf cpp
+cd c
+mkdir c
+cd c
+touch main.c
+nvm .
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+reboot
+ls
+cd c
+nvim .
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+./a.out
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+nvim .
+gcc main.c
+./a.out
+git clone https://aur.archlinux.org/c3c-git.git
+ls
+cd c3c-git/
+nvim .
+makepkg -si
+..
+ls
+c3c --version
+c
+ls
+rm -rf c3c-git/
+ls
+c3c version
+mkdir c3
+cd c3
+touch main.c3
+nvim .
+cd c3
+nvim .
+c3c main.c3
+c3c compile main.c3
+ls
+./main
+nvim
+nvim .
+sudo pacman -Rns c3
+sudo pacman -Rns c3c
+sudo pacman -Rns c3c-git
+..
+ls
+rm -rf c3
+rm -rf c
+ls
+mkdir zig
+ls
+rm -rf zig
+ls
+mkdir golang
+rm -rf goc
+ls
+cd golang/
+touch main.go
+nvim .
+go build
+go run main.go
+ls
+nvim .
+ls
+..
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/sqlite/
+ls
+cd golang/
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim 
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+git clone https://github.com/spring1843/go-dsa.git
+ls
+cd go-dsa/
+ls
+nvim .
+cd ..
+ls
+rm -rf golang
+mkdir cpp
+cd cpp
+ls
+touch main.cpp
+nvim .
+gcc main.cpp -o main
+ls
+nvim .
+g++ main.cpp -o main
+ls
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+nvim .
+./main
+nvim nvim .
+ls
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+ls
+rm -rf cpp
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+c..
+..
+ls
+cd odin
+nvim .
+cd ..
+ls
+rm -rf odin
+mkdir cpp
+cd cpp
+touch main.cpp
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+cd ..
+ls
+rm -rf cpp
+mkdir rust
+cd rust/
+cargo new play
+cd play/
+nvim .
+cargo run
+nvim .
+carog run
+cargo run
+nvim .
+../..
+ls
+rm -rf rust
+ls
+mkdir c
+cd c
+touch main.c
+nvim  .
+gcc main.c -o main
+ls
+./main
+ls
+nvim .
+gcc main.c -o main
+./main
+nvim .
+gcc main.c -o main
+./main
+nvim .
+ls
+rm -rf c
+mkdir zig
+cd zig
+touch main.zig
+nvim .
+..
+ls
+rm -rf zig
+ls
+mkdir golang
+cd golang/
+nvim .
+go run main.go
+rm -rf golang
+mkdir odin
+ls
+cd odin/
+ls
+touch main.odin
+nvim 
+nvim  .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+mkdir roc
+cd roc
+ls
+touch main.roc
+ls
+nvim .
+roc main.roc
+nvim .
+:q
+cd ..
+ls
+rm -rf roc
+ls
+mkdir golang
+cd golang/
+ls
+cd ..
+ls
+rm -rf odin golang/
+mkdir rust
+cd rust/
+cargo new play
+nvim .
+cd ..
+ls
+rm -rf rust
+lls
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+mkdir cpp
+rm -rf odin
+cd cpp
+ls
+touch main.cpp
+nvim .
+g++ main.cpp -o main
+./main
+ls
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+g++ main.cpp -o main
+./main
+nvim .
+g++ main.cpp -o main
+./main
+ls
+rm -rf cpp
+ls
+mkdir odin
+shutdown
+ls
+cd odin/
+ls
+touch main.odin
+nvim .
+cd ..
+ls
+rm -rf odin/
+ls
+mkdir cpp
+cd cpp
+touch main.cpp
+nvim .
+g++ main.cpp -o main
+ls
+./main
+ls
+nvim .
+g++ main.cpp -o main
+./main
+nvim .
+cd ..
+ls
+rm -rf cpp
+ls
+opam
+ls
+opam init
+config env
+ls
+config nu
+nvim
+ls
+opam
+opam install ocaml-lsp-server odoc ocamlformat utop
+opam
+opam switch
+eval $(opam env)
+config nu
+opam load-env
+ls
+opam
+opam switch
+config nu
+opam
+dune
+opam install dune
+opam load-env
+opam env
+config nu
+opam load-env
+dune --version
+config env
+config nu
+config env
+opam
+dune --version
+opam switch
+dune --version
+opam load-env
+opam sync-env
+opam --version
+dune --version
+mkdir ocaml
+cd ocaml/
+dune init new proj
+dune new proj play
+dune init proj play
+ls
+cd play
+dune build
+nvim .
+ls
+dune run
+ls
+cd bin
+ls
+lss
+ls
+rm -rf ocaml
+mkdir golang
+rm -rf ~/.opam
+ls
+opam
+sudo rm /usr/local/bin/opam
+ls
+opam
+config env
+shutdown
+nwtui
+ls
+rm -rf golang
+la
+ls
+cdc
+cd c
+ls
+mkdir c
+cd c
+ls
+mkdir lox
+cd lox
+touch main.c
+nvim .
+gcc -std=c99 -Wall -Wextra main.c -o main<\n>
+gcc -std=c99 main.c -o main
+ls
+./main
+ls
+rm main
+touch .clangd
+nvim
+cd c/lox/
+nvim .
+nvim
+:q
+cd c/lox/
+nvim .
+reboot
+ls
+mkdir odin
+mkdir asm
+cd asm
+touch main.asm
+cd asm
+ls
+as -32 main.s -o main.o
+ls
+as -32 main.asm -o main.o
+ls
+ld -m elf_i386 main.o -o main
+ls
+./main
+nvim .
+as -32 main.asm -o main.o
+ld -m elf_i386 main.o -o main
+./main
+nvim .
+ls
+nvim .
+as -32 main.asm -o main.o
+ld -m elf_i386 main.o -o main
+./main
+nvim .
+cd ..
+ls
+rm -rf asm
+cd c
+ls
+mkdir lin
+cd lin
+touch main.c
+nvm .
+nvim .
+gcc main.c -o main
+ls
+./main
+ls
+rm -rf c
+ls
+cd odin
+ls
+touch main.odin
+ls
+nvim .
+odin run main.odin -file
+ls
+..
+ks
+ls
+mkdir benchmark
+cd benchmark/
+mkdir nbody
+cd nbody/
+touch nbody.cpp
+touch nbody.odin
+nvim .
+..
+nvim
+odin --version
+cd benchmark/nbody/
+ls
+make benchmark
+python3 benchmark.py --iterations 1000 10000 50000 100000 250000 --runs 5
+nvim .
+ls
+nvim .
+python3 benchmark.py --iterations 1000 10000 50000 200000 --runs 5
+..
+cd odin/
+nvim .
+ls
+cd benchmark/
+cd nbody/
+python3 benchmark.py --iterations 1000 10000 50000 1000000 --runs 5
+python3 benchmark.py --iterations 1000 10000 50000 2000000 --runs 10
+python3 benchmark.py --iterations 1000 10000 50000 20000000 --runs 10
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+sudo pacman -S erlang
+yay -S gleam
+ls
+erl --version
+ls
+gleam --version
+nvim
+ls
+mkdir gleam
+cd gleam/
+gleam new play
+cd play/
+gleam test
+ls
+nvim .
+gleam run
+ls
+nvim
+cd gleam/
+nvim .
+gleam run
+ls
+cd play/
+gleam run
+nvim .
+gleam run
+ls
+gleam build
+nvim .
+ls
+cd build/
+ls
+cd ..
+ls
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+cd ..
+..
+ls
+cd keyword/
+ls
+gleam new gleam-keyword
+gleam new gl-keyword
+l
+ls
+rm-rf gl-keyword/
+rm -rf gl-keyword/
+gleam new gl_keyword
+cd gl_keyword/
+gleam test
+nvim .
+ls
+gleam run
+gleam run analyze ~/sqlite/
+nvim .
+gleam run -- analyze ~/sqlite/
+gleam run
+gleam run analyze ~/sqlite/
+nvim .
+shutdown
+ls
+cd keyword/
+ls
+..
+ls
+mkdir gleam/roc
+cp gl_keyword/ ~/gleam/roc/
+cp gl_keyword/ ~/gleam/roc/ --recursive
+ls
+ls
+cd gleam/roc/
+ls
+mdkir roc_keyword
+mkdir roc_keyword
+cd roc_keyword/
+touch main.roc
+nvim .
+ls
+nvim .
+cd roc
+ls
+cd gleam/
+ls
+cd roc/
+ls
+cd roc_keyword/
+ls
+nvim .
+roc main.roc
+ls
+nvim .
+ls
+roc main.roc
+ls
+cd keyword/
+ls
+cd gl_keyword/
+ls
+cd ..
+ls
+git clone https://github.com/gleam-lang/otp.git
+ls
+cd gl_keyword/
+ls
+gleam run -- analyze ~/sqlite/ --workers 16 --verbose
+..
+cd gleam/
+ls
+cd roc
+ls
+cd gl_keyword/
+ls
+gleam run -- analyze ~/sqlite/ 
+..
+ls
+cd keyword/
+ls
+cd rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/sqlite/
+cd keyword/
+ls
+rm -rf otp gl_keyword/
+ls
+rm -rf test_code/
+..
+ls
+cd gleam/
+ls
+cd roc/
+ls
+cp gl_keyword/ ~/gleam/
+cp gl_keyword/ ~/gleam/ --recursive
+ls
+..
+ls
+rm -rf roc
+ls
+nvim .
+ls
+cd gl_keyword/
+ls
+gleam run -- analyze ~/sqlite/ 
+nvim .
+cd gleam/
+ls
+git clone https://github.com/gleam-lang/gleam.git
+ls
+cd gleam/
+ls
+cd compiler-core/
+ls
+nvim .
+cd gleam/
+ls
+cd gl_keyword/
+nvim .
+ls
+gleam run -- analyze ~/sqlite/ 
+ls
+cd odin
+nvim .
+ls
+cd gleam/
+ls
+cd gleam/
+ls
+..
+ls
+cd gl_keyword/
+nvim 
+nvim .
+gleam run -- help
+gleam run -- 
+gleam run help
+gleam help
+gleam check
+ls
+nvim .
+cd gleam/
+ls
+cd gl_keyword/
+ls
+gleam
+ls
+nvim .
+shutdown
+ls
+cd gleam/
+ls
+cd gl_keyword/
+nvim .
+ls
+mkdir rust
+cd rust
+cargo new kw
+cd kw
+ls
+nvim .
+lss
+cd ..
+ls
+cd ..
+ls
+rm -rf rust/
+ls
+nvim .
+cd gleam/gl_keyword/
+vim .
+nvim .
+shutdown
+ls
+cd gleam/
+ls
+cd play/
+nvim .
+..
+ls
+..
+ls
+cd odin
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+cd gleam/ls
+ls
+cd gleam
+ls
+cd gl_keyword/
+nvim .
+ls
+gleam
+nvim .
+ls
+gleam run --target javascript
+nvim .
+gleam run --target javascript analyze ~/sqlite/
+nvim .
+ls
+gleam run --target javascript analyze ~/gleam/gl_keyword/test.c
+ls
+nvim .
+ls
+gleam
+gleam run --target javascript analyze ~/gleam/gl_keyword/
+gleam run --target javascript analyze ~/gleam/gl_keyword/test.c
+nvim .
+node --version
+ls
+nvim .
+gleam run -- analyze ~/gleam/gl_keyword/
+gleam run --target javascript -- analyze ~/gleam/gl_keyword/test.c
+nvim .
+ls
+gleam run -- analyze ~/gleam/gl_keyword/
+nvim .
+ls
+gleam run -- analyze ~/gleam/gl_keyword/
+gleam run -- analyze ~/sqlite/
+nvim .
+...
+ls
+cd keyword/
+ls
+cd rust-keyword-analyzer/
+nvim .
+..
+ls
+cd keyword-analyzer/
+nvim .
+ls
+..
+ls
+..
+ls
+cd gleam/gl_keyword/
+ls
+cd ..
+ls
+cp gl_keyword/ ~/keyword/ --recusive
+cp gl_keyword/ ~/keyword/ --recursive
+ls
+..
+ks
+ls
+cd keyword/
+ls
+git add .
+git commit -m "added gleam"
+git push
+ls
+cd keyword/
+cd keyword-analyzer/
+nvim .
+shutdown
+cd gleam/gl_keyword/
+nvim .
+cd gleam
+ls
+gleam new glisp
+cd glisp/
+ls
+gleam test
+ls
+nvim .
+cd ..
+ls
+rm -rf glisp
+cd ..
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+cd odin/
+ls
+mkdir rocc
+mv rocc roc
+;s
+ls
+lcd roc
+cd roc
+mkdir roc-keyword
+ls
+cd roc-keyword/
+touch main.roc
+ls
+nvim .
+roc main.roc
+ls
+git init
+git add ,
+git add .
+git commit -m "init"
+ls
+cd gleam/gl_keyword/
+nvim .
+roc main.roc
+nvim .
+...
+ls
+cd Languages/
+ls
+cd roc/
+ls
+:q
+mkdir js
+cd js
+touch main.js
+nvim .
+bun run main.js
+ls
+nvim .
+bun run main.js
+nvim .
+bun run main.js
+nvim .
+bun run main.js
+nvim .
+bun run main.js
+nvim .
+sudo pacman -
+sudo pacman -S opam
+opa, --verison
+opa, --version
+opam --version
+opam init
+nvim
+opam install ocaml-lsp-server odoc ocamlformat utop
+ocaml
+dune
+ls
+dune
+opam init
+ls
+dune
+eval $(opam env)
+config env
+opam
+dune
+config env
+opam
+dune
+ls
+nvim .
+lls
+lss
+ls
+ks
+ls
+mkdir zig
+cd zig
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+nvim .
+zig build-exe main.zig
+./main
+nvim .
+zig build-exe main.zig
+nvim .
+cd ..
+ls
+cd Languages/
+cd zig/
+nvim .
+shutdown
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+cd gleeam
+cd gleam
+cd gl_keyword/
+nvim .
+ls
+gleam run -- analyze ~/sqlite/
+git clone https://github.com/gleam-lang/otp.git
+ls
+gleam run -- analyze ~/sqlite/
+...
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/sqlite/
+..
+ls
+cd rust-keyword-analyzer/
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/sqlite/
+..
+ls
+..
+ls
+cp keyword-analyzer/ ~/gleam/gl_keyword/ --recursive
+..
+ls
+cd gleam/gl_keyword/
+ls
+rm -rf keyword-analyzer/
+ls
+gleam run -- analyze ~/sqlite/
+ls
+nvim 
+nvim .
+ls
+mkdir typescript
+cd typescript/
+touch main.ts
+nvim .
+bun run main.ts
+nvim .
+ls
+cd ..
+ls
+rm -rf typescript/
+ls
+curl -fsSL https://install.julialang.org | sh
+nvim
+ls
+julia
+config env
+opam
+dune
+julia
+ls
+mdkir julia
+mkdir julia
+cd julia/
+touch main.jl
+nvim .
+cd julia/
+nvim .
+julia main.jl
+julia help
+ls
+nvim .
+..
+ls
+which julia
+ls
+rm -rf julia/
+ls
+cd odin/
+nvim .
+ls
+rm -rf zig
+ls
+..
+ls
+rm -rf zig
+ls
+gleam 
+cd gleam
+ls
+cd gl_keyword/
+nvim .
+...
+ls
+cd keyword/
+cd keyword-analyzer/
+nvim .
+shutdown
+ghostty +list-themes<\n>
+ls
+nvim .config/nvim/
+ls
+cd gleam/gl_keyword/
+nvim .
+ls
+..
+cd keyword/
+cd keyword-analyzer/
+nvim .
+ghostty +list-themes<\n>
+ls
+nvim .
+ghostty +list-themes<\n>
+ls
+cd gleam/gl_keyword/
+nvim .
+:q
+...
+ls
+cd keyword-analyzer/
+cd keyword/keyword-analyzer/
+nvim .
+nvim
+...
+ls
+nvim .config/nvim/
+nvm
+nvim .config/nvim/
+ls
+nvim .
+ls
+nvim .config/nvim/
+nvim
+cd gleam/gl_keyword/
+nvim .
+...
+cd keyword/keyword-analyzer/
+nvim .
+nvim .config/nvim/
+...
+nvim .config/nvim/
+:q
+ls
+cd odin
+nvim 
+ls
+ghostty +list-themes<\n>
+ls
+cd odin/
+nvim .
+ls
+..
+ls
+cd gleam/gl_keyword/
+nvim .
+:q
+ls
+cd odin/
+nvim .
+..
+ls
+lls
+ls
+cd sqlite/
+nvim .
+..
+ls
+cd odin/
+ls
+rm main.odin
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+shutdown
+ls
+cd gleam/
+ls
+mv gl_keyword/ 02_gl_keyword
+ls
+cd gleam/
+ls
+..
+ls
+cp 02_gl_keyword/ ~/keyword/ --recursive
+ls
+..
+ls
+cd keyword/
+ls
+git add .
+git commit -m "Mor eperformant version of gleam from 15 seconds to 0.5 seconds"
+git push
+ls
+cd ..
+ls
+rm -rf sqlite/ keyword/ My-QoL/ gleam/
+ls
+cd Languages/
+ls
+rm -rf zig
+ls
+..
+which opam
+rm -rf /usr/bin/opam
+sudo rm -rf /usr/bin/opam
+opam
+which julia
+rm -rf /home/justin/.juliaup/bin/julia
+julia
+config env
+nvim
+rm -rf /home/justin/.pixi/
+ls
+lls
+ls
+cd odin
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+ls
+cd odin
+ks
+ls
+nvim .
+shutdown
+ls
+cd odin
+nvim .
+ls
+mkdir pla
+cd pla/
+touch main.odin
+ls
+nvim .
+odin run main.odin -file
+ls
+..
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+cd odin/
+nvim .
+ls
+cd pla/
+nvim .
+...
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim .
+go run main.go
+ls
+rm -rf golang/
+nvim
+cd .config/
+ls
+cd nvim
+ls
+git add .
+git -m "theme"
+git commit  -m "theme"
+git push
+shutdown
+ls
+nvim 
+ls
+mkdir typescript
+cd typescript/
+touch main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+sudo timeshift --create
+sudo pacman -Syu
+ls
+cd ..
+ls
+rm -rf typescript/
+ls
+cd odin
+nvim .
+..
+l
+ls
+cd Languages/
+ls
+cd odin/
+nvim .
+shutdown
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+ls
+zig
+config env
+ls
+mkdir rust
+cd rust/
+cargo new play
+cd play/
+nvim .
+rm -rf rust/
+ls
+gleam
+mkdir gleam
+ls
+cd gleam/
+gleam new glisp
+cd glisp/
+gleam test
+nvim .
+..
+ls
+rm -rf gleam
+ls
+cd bash-scripts/
+nvim .
+..
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim 
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+mkdir gleam
+ls
+cd gleam/
+gleam new play
+cd play/
+gleam test
+ls
+nvim .
+gleam run
+ls
+nvim .
+ls
+cd gleam/
+ls
+cd play/
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim  .
+odin run main.odin -file
+..
+ls
+cd gleam/
+cd play/
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+ls
+rm -rf gleam
+ls
+cd odin/
+shutdown
+ls
+cd odin/
+nvim .
+ls
+cd ..
+ls
+git clone https://github.com/JustinEphriam/keyword.git
+git clone git@github.com:JustinEphriam/keyword.git
+ls
+cd keyword/
+ls
+nvim .
+..
+ls
+rm -rf keyword/
+sl
+ls
+mkdir gleam
+cd gleam/
+gleam new play
+cd play/
+gleam test
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+...
+ls
+rm -rf gleam/
+ls
+cd doin
+cd odin
+nvim .
+ls
+mkdir c
+cd c
+touch main.c
+ls
+nvim .
+gcc main.c -o main
+ls
+./main
+ls
+shutdown
+cd Languages/
+ls
+mv zig-x86_64-linux-0.15.0-dev.1092+d772c0627/ zig
+ls
+cd zig
+ls
+config env
+zig
+zig version
+ls
+cd Languages/
+ls
+git clone https://github.com/zigtools/zls
+cd zls
+zig build -Doptimize=ReleaseSafe
+ls
+git log --oneline -10
+git log --oneline -30
+zig version
+cd Languages/zls/
+ls
+git checkout 3c58d1ff
+ls
+zig build -Doptimize=ReleaseSafe
+ls
+cd ..
+ls
+rm -rf zls
+ls
+git clone https://github.com/zigtools/zls
+cd zls
+git log --oneline -10
+git log --oneline -25
+zig version
+cd Languages/zls/
+git checkout 5eec09bc
+ls
+zig build -Doptimize=ReleaseSafe
+..
+ls
+rm -rf zig zls
+ls
+..
+ls
+cmake --version
+llvm --version
+gcc --version
+clang --version
+cd Languages/
+ls
+git clone https://github.com/ziglang/zig.git
+ls
+cd zig
+ls
+mkdir build
+cd build
+ls
+cmake ..
+make install
+sudo pacman -S lld
+ls
+zig1
+ls
+..
+ls
+..
+ls
+rm -rf zig
+ls
+..
+ls
+rm -rf c
+ls
+cd odin/
+nvim .
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim .
+go run main.go
+ls
+rm -rf play/
+rm -rf golang/
+ls
+cd odin/
+nvm .
+nvim .
+odin run main.odin -file
+nvim .
+ls
+..
+ls
+cd odin/
+ls
+nvim .
+ls
+nvim .
+...
+ls
+cd justin/
+ls
+cd Languages/
+ls
+cd odin/
+ls
+nvim .
+shutdown
+sudo pacman -S java
+sudo pacman -S bash curl rlwrap
+ls
+java --version
+curl -L -O https://github.com/clojure/brew-install/releases/latest/download/linux-install.sh
+ls
+chmod +x linux-install.sh
+sudo ./linux-install.sh
+ls
+clj
+ls
+clj --version
+ls
+rm linux-install.sh
+ls
+mkdir clojure
+cd clojure/
+touch main.clj
+nvim .
+ls
+nvim .
+ls
+clj main.clj
+ls
+cd clojure/
+ls
+touch search.clj
+nvim .
+clj search.clj
+-M search.clj
+clj -M search.clj
+ls
+clj -M search.clj
+nvim .
+clj -M search.clj
+nvim .
+ls
+rm -rf clojure/
+ls
+cd odin
+ls
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim 
+nvim .
+odin run main.odin -file
+nvim .
+sudo pacman -S elixir
+elixir --version
+ls
+mkdir elixir
+cd elixir/
+ls
+mix
+mix new play
+cd play/
+mix test
+nvim .
+htop
+ls
+mix build
+mix search.ex
+ls
+cd lib
+ls
+mix search.ex
+cd..
+ls
+..
+lls
+ls
+mix
+ls
+mix.exs
+ls
+nvim .
+iex
+ls
+mix
+mix help
+iex -S mix
+mix run
+ls
+nvim .
+...
+ls
+rm -rf elixir/
+ls
+cd benchmark/
+ls
+cd nbody/
+nvim .
+ls
+..
+ls
+..
+ls
+cd odin/
+nvim .
+ls
+..
+ls
+cd odin
+ls
+..
+ls
+mkdir golang
+ls
+cd golang/
+touch main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+ls
+git clone https://github.com/golang/go.git
+ls
+cd go
+go version
+nvim .
+ls
+cd odin/
+ls
+mkdir nand2tetris
+ls
+cd nand2tetris/
+git init
+touch main.odin
+ls
+git add .
+git commit -m "init"
+nvim .
+ls
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+git commit -m "impl"
+git add .
+git commit -m "impl"
+nvim .
+ls
+odin test
+odin test main
+nvim .
+odin test nand
+ls
+odin test nand2tetris
+odin nand test
+odin test
+odin test nand
+odin test ~/odin/nand2tetris/
+ls
+git add .
+git commit -m "impl nand gate, tests passing"
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin run main.odin -file
+odin test ~/odin/nand2tetris/
+git add .
+git commit -m "refactored the xor debug print into proper test"
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+ls
+git add .
+git commit -m "added other primative logic gates"
+nvim .
+shutdown
+cd odin/
+ls
+cd nand2tetris/
+nvim .
+odin test ~/odin/nand2tetris/
+nvim .
+git add.
+git add .
+git commit -m "xor added"
+nvim .
+odin test ~/odin/nand2tetris/
+git add .
+git commit -m "refactored primitive logic gates into their own source file preparing for composite gates"
+nvim .
+odin test ~/odin/nand2tetris/
+odin run main.odin -file
+ls
+shutdown
+ls
+rm -rf golang/
+ls
+cd odin/
+nvim .
+ls
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+mkdir golang
+cd golang/
+touch main.go
+cg main.go
+cd main.go
+ls
+nvim .
+go run main.go
+ls
+cd golang/
+nvim .
+ls
+shutdown
+ls
+git clone git@github.com:JustinEphriam/keyword.git
+ls
+cd keyword/
+ls
+cd 02_gl_keyword/
+nvim .
+git clone https://github.com/torvalds/linux.git
+ls
+cd keyword/02_gl_keyword/
+ls
+gleam run -- analyze ~/linux/
+ls
+gleam run
+gleam run -- analyze ~/sqlite/
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+cd rust-keyword-analyzer/target/release/
+cd rust-keyword-analyzer/
+ls
+cd src/
+ls
+cd languages/
+ls
+cd ..
+ls
+..
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+..
+ls
+..
+...
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+lss
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+cd 02_gl_keyword/
+ls
+gleam run -- analyze ~/linux/
+..
+ls
+cd gl_keyword/
+ls
+..
+ls
+cd keyword-analyzer/
+./keyword-analyzer analyze ~/linux/
+..
+cd rust-keyword-analyzer/
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+...
+ls
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/linux/
+sudo timeshift --create
+sudo pacman -Syu
+reboot
+cd keyword/
+ls
+cd keyword-analyzer/
+./keyword-analyzer analyze ~/linux/
+ls
+cd golang/
+ls
+..
+ls
+reboot
+cd keyword/
+cd rust-keyword-analyzer/
+cd target/release/
+./keyword-analyzer analyze ~/linux/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+shutdown
+ls
+cd odin/
+l
+ls
+cd pla/
+nvim .
+..
+cd .config/nvim/
+git add ,
+git add .
+git commit -m "m"
+git push
+ls
+...
+ls
+cd Languages/
+ls
+cd odin/
+ls
+nvim .
+ls
+odin
+odin version
+ls
+cd Languages/
+ls
+cd odin/
+ls
+nvim .
+...
+cd odin/
+ls
+cd pla/
+nvim .
+ls
+cd ..
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+ocaml
+dune
+mkdir rust
+cd rust/
+cargo new play
+cd play/
+ls
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo fmt
+nvim .
+cargo run
+nvim .
+rustup
+rustup update
+ls
+..
+ls
+cd keyword/
+cd rust-keyword-analyzer/
+nvim .
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+htop
+ls
+nvim .
+...
+ls
+nvim .
+...
+ls
+shutdown
+ls
+cd rust/
+ls
+nvim .
+cargo run 
+ls
+cd play/
+cargo run 
+nvim .
+cargo run 
+nvim .
+cargo run 
+nvim  .
+cargo run 
+nvim .
+cargo run 
+nvim .
+cargo fmt
+nvim .
+...
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+..
+ls
+rm -rf rust/
+ls
+cd odin
+ls
+nvim .
+ls
+..
+ls
+cd golang/
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+..
+ls
+cd keyword/
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+cd rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+...
+ls
+..
+ls
+..
+ls
+cd golang/
+nvim .
+go run main.go
+nvim .
+ls
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+ls
+..
+ls
+cd golang/
+ls
+touch text.txt
+nvim ,
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+..
+ls
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvikm .
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+cd odin/
+ls
+nvim .
+odin
+odin root
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+..
+ls
+cd Languages/
+ls
+cd odin/
+nvim .
+ls
+...
+cd odin/
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+shutdown
+ls
+config env
+v
+ls
+mkdir v
+ls
+cd v
+ls
+touch main.v
+nvim .
+v main.v
+ls
+./main
+ls
+nvim .
+v main.v
+./main
+nvim .
+v main.v
+./main
+nvim .
+v main.v
+./main
+nvim .
+v main.v
+./main
+nvim .
+./main
+..
+ls
+cd odin/
+ls
+odin run main.odin -file
+l..
+..
+ls
+cd v
+ls
+nvim .
+v main.v
+./main
+nvim .
+v main.v
+./main
+nvim .
+v main.v
+./main
+..
+ls
+rm -rf v
+ls
+config env
+lss
+ls
+cd odin/
+nvim .
+shutdown
+ls
+cd odin/
+nvim .
+ls
+mkdir parse
+cd parse/
+touch main.odin
+touch source.txt
+nvim .
+..
+ls
+rm -rf parse/
+mkdir pcli
+ls
+cd pcli/
+ls
+mkdir wc
+cd wc
+touch main.odin
+nvim .
+...
+..
+la
+ls
+cd golang/
+ls
+mkdir pcli
+cd pcli
+touch main.go
+cd golang/pcli/
+...
+cd odin/
+ls
+cd pcli/
+ls
+cd wc
+nvim .
+shutdown
+ls
+mkdir gleam
+ls
+cd gleam/
+gleam new play
+cd play/
+ls
+nvim .
+:q
+gleam test
+ls
+gleam run
+ls
+nvim .
+ls
+cd gleam/play/
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvm .
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+ls
+glema run
+gleam run
+ls
+nvim .
+ls
+nvim  .
+ls
+..
+cd keyword/
+nvim .
+..
+cd gleam/play/
+nvim  .
+gleam run
+nvim .
+shutdown
+cd gleam/play/
+ls
+nvim .
+gleam add simplifile
+ls
+nvim .
+ls
+touch file.txt
+nvim .
+gleam run
+nvim .
+gleam run
+nvim .
+ocaml
+dune init proj play
+ls
+cd gleam/
+ls
+cd play/
+ls
+nvim .
+ls
+rm -rf ocaml
+cd keyword/
+ls
+rm -rf ocaml
+ls
+rm -rf ocaml
+ls
+rm -rf ocaml-keyword-analyzer/
+ls
+cd c-keyword-analyzer/
+ls
+cd src
+ls
+cd ..
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+cd rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+...
+..
+cd c
+cd c-keyword-analyzer/
+ls
+cd build/
+cd bin/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+./keyword-analyzer analyze ~/linux/
+ls
+...
+ls
+cd include/
+ls
+nvim .
+..
+ls
+nvim .
+cd keyword/
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+shutdown
+cd keyword/
+ls
+cd c-keyword-analyzer/
+ls
+nvim .
+ls
+cd keyword/
+ls
+cd c-keyword-analyzer/
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+...
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer
+./keyword-analyzer analyze ~/linux/
+cd ..
+ls
+cd rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+cd Languages/
+ls
+cp odin/ ~/keyword/ -r
+..
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+nvim .
+./odin-keyword-analyzer analyze ~/linux/
+./odin-keyword-analyzer
+./odin-keyword-analyzer ~/linux/
+ls
+./odin-keyword-analyzer ~/linux/
+nvim .
+ls
+odin build main.odin -file o:speed
+ls
+odin build main.odin -file 
+ls
+./main ~/linux/
+./odin-keyword-analyzer ~/linux/
+odin
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+shutdown
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+nvim ,
+nvim .
+ls
+..
+cd odin-keyword-analyzer/
+ls
+cd ..
+ls
+git add .
+git commit -m "added new versions"
+git push
+ls
+rm -rf odin
+ls
+git add .
+git commit -m "oops"
+git push
+ls
+cd odin-keyword-analyzer/
+ls
+rm main odin-keyword-analyzer odin-keyword-analyzer-debug
+ls
+..
+git add .
+git commit -m "oops"
+git push
+ls
+rm -rf odin-keyword-analyzer/
+ls
+git add .
+git commit -m "oops"
+git push
+ls
+cd c-keyword-analyzer/
+nvim .
+htop
+cat /etc/crontab
+ls /etc/cron.daily/
+systemctl list-timers | grep updatedb
+systemctl status updatedb.timer
+journalctl -u updatedb.service --since "24 hours ago"
+which plocate-updatedb
+sudo timeshift --create
+sudo pacman -Syu
+shutdown -n
+shutdown 
+nvim
+cd Downloads/
+ls
+mv zig-x86_64-linux-0.15.0-dev.1274+147a85280/ zig
+ls
+mv zig/ ~/Languages/
+..
+cd Languages/
+ls
+config env
+zig
+cd Languages/
+git clone https://github.com/zigtools/zls
+cd zls
+zig build -Doptimize=ReleaseSafe
+ls
+cd zig-out/
+ls
+cd bin/
+ls
+mv zls ~/Languages/zig/
+....
+ls
+cd zig
+ls
+mkdir zig
+cd zig
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig
+ls
+./main 
+ls
+nvim .
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+ls
+nvim .
+zig build
+ls
+..
+ls
+nvim .
+ls
+cd zig
+ls
+..
+ls
+cd keyword/
+ls
+cd c-keyword-analyzer/
+shutdown 
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+nvim .
+reboot
+sudo pacman -Syu
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+nvim .
+ls
+cd Languages/
+ls
+rm -rf zls
+ls
+curl -OL https://github.com/roc-lang/roc/releases/download/alpha3-rolling/roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+tar -xf roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+rm -rf roc-linux_x86_64-alpha3-rolling.tar.gz
+ls
+mv roc_nightly-linux_x86_64-2025-03-22-c47a8e9/ roc
+ls
+cd roc/
+ls
+..
+la
+ls
+config env
+roc
+ls
+mkdir roc
+ls
+cd roc
+touch main.roc
+nvim .
+roc main.roc
+ls
+./main
+ls
+nvim .
+roc main.roc
+nvim .
+roc main.roc
+nvim .
+shutdown
+npm install -g @google/gemini-cli
+sudo npm install -g @google/gemini-cli
+gemini
+ls
+cd keyword/
+ls
+cd c-keyword-analyzer/
+ls
+gemini
+ls
+..
+ls
+..
+ls
+rm -rf zig
+rm -rf roc
+ls
+mkdir c
+cd c
+touch main.c
+ls
+nvim .
+gcc main.c -o main
+ls
+./main
+nvim .
+gcc main.c -o main
+./main
+gemini
+shutdown
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+..
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin
+ls
+./keyword-analyzer ~/linux/
+./keyword-analyzer analyze ~/linux/
+ls
+..
+ls
+cd odin
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+...
+ls
+cd Languages/
+ls
+cd odin/
+ls
+cd core/
+ls
+cd sync
+ls
+nvim .
+ls
+cd ..
+ls
+cp sync/ ~/keyword/odin-keyword-analyzer/ -r
+ls
+./main ~/linux/
+..
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+..
+ls
+cd rust-keyword-analyzer/target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+....
+ls
+cd odin-keyword-analyzer/
+ls
+rm -rf sync/
+./main ~/linux/
+nvim .
+ls
+..
+ls
+git add .
+git commit -m "odin optimization  its now the fastet version"
+git push
+...
+ls
+cd justin/
+ls
+rm -rf golang c
+ls
+cd odin/
+ls
+..
+ls
+gemini
+reboot
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+htop
+nvim .
+...
+ls
+mkdir breakthrough
+cd breakthrough/
+ls
+..
+ls
+cp odin-keyword-analyzer/ ~/breakthrough/ -r
+ls
+mkdir go-keyword-analyzer
+cd odin-keyword-analyzer/
+ls
+..
+ls
+cd go-keyword-analyzer/
+ls
+..
+ls
+..
+ls
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+gemini
+cd..
+ls
+..
+ls
+rm -rf breakthrough/
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+nvim .
+nvim .
+ls
+..
+ls
+cd odin-keyword-analyzer/
+./main ~/linux/
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+..
+;s
+...
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+nvim .
+shutdown
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+gemini
+ls
+cd keyword/odin-keyword-analyzer/
+odin build main.odin -file -o:speed..
+..
+ls
+rm -rf linux-6.6.1/
+rm -rf linux-6.6.1.tar.xz
+cd rust-keyword-analyzer/target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+....
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer-optimized analyze ~/linux/
+..
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+nvim
+cd zi
+mkdir zig
+ls
+cd zig/
+mkdir lol
+cd lol
+zig init
+nvim .
+...
+rm -rf zig/
+ls
+cd keyword/
+ls
+cd  zig-keyword-analyzer/
+ls
+cd zig-out/
+ls
+cd bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+ls
+nvim .
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+...
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+nvim 
+...
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+..
+ls
+git add ,
+git add .
+git commit -m "many different performance optimizations and added zig"
+git push 
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+...
+ls
+..
+ls
+cd zig-keyword-analyzer/
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+ls
+./main ~/linux/
+..
+ls
+cd c-keyword-analyzer/build/bin/
+ls
+./keyword-analyzer analyze ~/linux/
+ls
+......
+ls
+cd justin/
+ls
+cd odin/
+ls
+mkdir keyword-analyzer
+cd keyword-analyzer/
+ls
+touch main.odin
+nvim .
+ls
+git init
+git add .
+touch README.md
+..
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+nvim .
+ls
+git add ,
+git add .
+git commit -m "init"
+cd keyword/odin-keyword-analyzer/
+nvim .
+git add .
+git commit -m "keywords defined"
+nvim .
+git add .
+git commit -m "trie nodes "methods" defined"
+nvim .
+git add .
+git commit -m "parse structs/ enums defined. Worker pool struct defined."
+nvim .
+ls
+cd keyword/odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+..
+ls
+cd c-keyword-analyzer/
+ls
+cd build/bin/
+ls
+./keyword-analyzer analyze ~/linux/
+ls
+..
+ls
+..
+ls
+make clean && make -j
+make clean and make -j
+ls
+cd src/
+ls
+cd ..
+ls
+nvim .
+..
+ls
+cd c-keyword-analyzer/
+ls
+nvim .
+make
+ls
+cd build/
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+;s
+ls
+cd odin/
+cd..
+ls
+cd main.odin
+:q
+...
+ls
+cd justin/
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+...
+ls
+cd keyword/
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin/
+ls
+./keyword-analyzer analyze ~/linux/
+cd keyword/
+ls
+cd 03_gl_keyword/
+ls
+nvim .
+gleam run
+gleam run ~/linux/
+..
+ls
+cd 03_gl_keyword/
+ls
+gleam run ~/linux/
+nvim  .
+..
+ls
+git add .
+git commit -m "optimized gleam version with better arch"
+git push
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+rm -rf build.sh
+cd keyword/
+ls
+git add .
+git commit -m "added a new rust version"
+git push
+nvim .
+cd keyword/
+nvim .
+ls
+cd rust2-keyword-analyzer/
+ls
+cd target/
+cd release/
+ls
+./rust2-keyword-analyzer
+./rust2-keyword-analyzer ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+cd rust2-keyword-analyzer/
+nvim .
+...
+git add .
+ls
+cd keyword/
+ls
+git add .
+git commit -m "added a new rust version"
+git push
+ls
+cd rust2-keyword-analyzer/
+ls
+nvim .
+..
+cd odin-keyword-analyzer/
+nvim .
+..
+ks
+ls
+cd rust2-keyword-analyzer/
+nvim .
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+ls
+..
+ls
+cd rust2-keyword-analyzer/
+nvim .
+git add .
+git commit -m "minor edits rust2"
+git push
+ls
+cd ..
+ls
+git add ,
+git add .
+git commit -m "minor edits rust2"
+nvim .
+cd keyword/
+cd rust2-keyword-analyzer/
+ls
+cd target/release/
+l
+ls
+./rust2-keyword-analyzer ~/linux/
+ls
+cd rust3-keyword-analyzer-simd/
+ls
+cd target/release/
+ls
+./rust3-keyword-analyzer-simd ~/linux/
+....
+ls
+rm -rf rust3-keyword-analyzer-simd/
+ls
+cd rust2-keyword-analyzer/
+ls
+nvim .
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/arch/
+./rust2-keyword-analyzer ~/linux/
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+shutdown
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+..
+ls
+cp linux/ ~/linux/ -r
+ls
+htop
+cd keyword/rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+reboot
+cd keyword/odin-keyword-analyzer/
+ls
+./main ~/linux/
+cd keyword/
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/
+cd bin
+ls
+./zig-keyword-analyzer ~/linux/
+..
+ls
+nvim .
+zig
+ls
+zig build -Doptimize=ReleaseFast
+ls
+cd zig-out/
+ls
+cd bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+ls
+..
+ls
+cd odin-keyword-analyzer/
+./main ~/linux/
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+ls
+./main ~/linux/
+..
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+./zig-keyword-analyzer ~/linux/
+...
+..
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+..
+cd zig-keyword-analyzer/
+cd zig-out/bin/
+ls
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+./zig-keyword-analyzer ~/linux/
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+...
+ls
+..
+ls
+cd rust2-keyword-analyzer/target/release/
+ls
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+./rust2-keyword-analyzer ~/linux/
+....
+ls
+cd c-keyword-analyzer/
+ls
+cd build/
+ls
+cd bin
+ls
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+./keyword-analyzer analyze ~/linux/
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+cd keyword/rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+cd keyword/
+ls
+cd rust-keyword-analyzer/
+cd target/release/
+ls
+./rust-keyword-analyzer ~/linux/
+./rust-keyword-analyzer analyze ~/linux/
+...
+ls
+..
+ls
+cd rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+.....
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+./main ~/linux/
+sudo sync
+echo 3 | sudo tee /proc/sys/vm/drop_caches
+./main ~/linux/
+nvim .
+odin build main.odin -file -o:speed
+./main ~/linux/
+..
+ls
+git add .
+git commit -m "took out the tracking allocator in odin"
+git push
+nvimm .
+nvim .
+cd keyword/
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+gemini
+cd..
+..
+ls
+cd rust2-keyword-analyzer/target/release/
+..
+nvim .
+..
+ls
+cd odin-keyword-analyzer/
+l
+ls
+nvim .
+clojure
+ls
+cd keyword/
+ls
+nvim .
+rm -rf test.c run-clojure-analyzer.sh clojure-keyword-analyzer.clj
+ls
+shutdown
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+nvim .
+gemini
+..
+ls
+cd rust2-keyword-analyzer/
+ls
+..
+ls
+cd rust2-keyword-analyzer/
+nvim .
+ls
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+cd rust-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+....
+cd rust2-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/
+nvim .
+...
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+nvim .
+ls
+gemini
+./main ~/linux/
+nvim .
+..
+cd rust2-keyword-analyzer/
+ls
+gemini
+gemini
+nvim .
+shutdown
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+nvim 
+ncim .
+nvim .
+ls
+gemini
+..
+cd odin-keyword-analyzer/
+ls
+rm optimization_findings.md
+ls
+./main ~/linux/
+..
+ls
+gti add .
+git add .
+git commit -m "clean up"
+git push
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+cd ..
+ls
+git
+git restore
+git list
+git branch
+git reset --hard main
+ls
+cd odin-keyword-analyzer/
+nvim .
+gemini
+..
+ls
+cd rust2
+cd rust2-keyword-analyzer/
+nvim .
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+gemini 
+...
+nvim .
+cd target/release/
+./rust2-keyword-analyzer ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+./main ~/linux/
+nvim .
+./main ~/linux/
+cd keyword/
+ls
+git add .
+git commit -m "clean up"
+git pushj
+git push
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+ls
+nvim .
+./main ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/
+nvim .
+..
+ls
+cd odin-keyword-analyzer/
+nvim .
+..
+ls
+git reset --hard main
+nvim .
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+cd rust-keyword-analyzer/
+cd target/release/
+ls
+./rust-keyword-analyzer analyze ~/linux/
+shutdown
+ls
+cd odin/
+ls
+nvim .
+..
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/
+ls
+cd bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd odin-keyword-analyzer/
+./main ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+cd c-keyword-analyzer/
+ls
+cd build/bin/
+ls
+./keyword-analyzer analyze ~/linux/
+nvim .
+ls
+...
+ls
+nvim .
+...
+ls
+cd keyword/
+ls
+cd c-keyword-analyzer/
+ls
+make clean and make -j
+make clean and make 
+make
+git reset --hard main
+ls
+cd ..
+git reset --hard main
+cd c-keyword-analyzer/
+ls
+cd build/
+cd bi
+ls
+cd ..
+ls
+make clean and make 
+make
+ls
+cd build/
+ls
+...
+la
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+ls
+...
+ls
+..
+ls
+git add .
+git commit -m "zig version is now the fastest and most memory efficient...."
+git push
+cd keyword/
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+reboot
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+reboot
+cd keyword/zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+ls
+..
+ls
+nvim .
+zig build -Doptimize=ReleaseFast
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+ls
+nvim .
+ls
+..
+git add .
+git commit -m "clean up"
+git push
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+gemini
+..
+ls
+...
+ls
+..
+ls
+git status
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+..
+ls
+git reset --hard main
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+gemini
+cd ke
+cd keyword/
+git reset --hard main
+ls
+mkdir zig
+cd zig/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+zig build
+nvim .
+zig build
+cd keyword/
+ls
+cd zig-keyword-analyzer/
+nvim .
+ls
+git clone https://github.com/sqlite/sqlite.git
+l
+ls
+cd keyword/
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/sqlite/
+.....
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+./main ~/sqlite/
+..
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/sqlite/
+....
+ls
+nvim .
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+gemini
+..
+ls
+git reset --hard main
+gemini
+npm install -g @anthropic-ai/claude-code
+sudo npm install -g @anthropic-ai/claude-code
+claude-code
+claude
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/sqlite/
+./main ~/linux/
+..
+ls
+git reset --hard main
+nvim .
+cd odin-keyword-analyzer/
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+nvim .
+..
+nvim .
+ls
+shutdown
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+ls
+cd keyword-analyzer/
+ls
+rm keyword-analyzer-optimized
+ls
+rm keyword-analyzer
+ls
+go
+go build -ldflags="-s -w" keyword-analyzer
+ls
+./keyword-analyzer analyze ~/linux/
+...
+ls
+cd keyword/
+ls
+git reset --hard main
+ls
+rm main.bin
+git add .
+git commit -m "added cpp version"
+git push
+nvim .
+ls
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+...
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+..
+ls
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+ls
+./main ~/linux/
+..
+git reset --hard main
+ls
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+nvim .
+..
+ls
+cd odin-keyword-analyzer/
+odin build main.odin -file -o:speed
+./main ~/linux/
+shutdown
+ld
+ls
+rm -rf zig/
+rm -rf sqlite/
+ls
+cd odin/
+ls
+mkdir dsa
+cd dsa/
+touch main.odin
+nvim .
+ls
+git init 
+git add .
+git commit -m "init intro to algorithms"
+ls
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+./main
+ls
+./main
+ls
+nvim .
+odin build main.odin -file -o:speed
+./main
+cd Downloads/
+ls
+cd sparrowwallet-2.2.3-aarch64/
+ls
+cd Sparrow/
+ls
+cd bin/
+ls
+./Sparrow
+chmod +x Sparrow
+./Sparrow
+..
+ls
+..
+ls
+..
+ls
+..
+ls
+cd Downloads/
+ls
+rm sparrowwallet-2.2.3-aarch64/
+rm -rf sparrowwallet-2.2.3-aarch64/
+ls
+rm -rf sparrowwallet-2.2.3-aarch64.tar.gz
+ls
+cd keyword/
+ls
+cd 03_gl_keyword/
+ls
+nvim .
+ls
+gleam run ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+cd keyword/
+git status
+git add .
+git commit -m "hello"
+git push
+ls
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+odin build main.odin -file -o:speed
+./main ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+ls
+..
+ls
+git reset --hard main
+cd keyword/
+ls
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+ls
+nvim .
+...
+ls
+cd keyword/
+git reset --hard main
+ls
+shutdown
+ls
+cd keyword/
+ls
+cd 03_gl_keyword/
+nvim .
+...
+ls
+git clone https://github.com/sqlite/sqlite.git
+cd keyword/
+ls
+cd 03_gl_keyword/
+gleam run ~/sqlite/
+..
+ls
+cd zig-keyword-analyzer/
+cd zig-out/bin/
+./zig-keyword-analyzer ~/sqlite/
+...
+ls
+nvim .
+..
+ls
+cd cpp-keyword-analyzer/
+nvim .
+..
+ks
+ls
+cd odin-keyword-analyzer/
+nvim .
+shutdown
+ls
+cd Languages/
+ls
+..
+ls
+mkdir roc
+cd roc
+ls
+touch main.roc
+nvim .
+roc main.roc
+ls
+./main
+ls
+cd keyword/
+ls
+cd 03_gl_keyword/
+ls
+rm -rf roc
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd cpp
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+./main ~/linux/
+..
+rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+cd keyword/
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/linux/
+./keyword-analyzer analyze ~/sqlite/
+..
+ls
+mkdir golang
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+nvim .
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+..
+ls
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+..
+ls
+git add .
+git commit -m "Added a new optimized go version.... how do I justify not using go for virtually everythng with this type of performance."
+git push 
+ls
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+./go-keyword-analyzer-debug ~/linux/
+..
+ls
+nvim .
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer-debug ~/linux/
+reboot
+ls
+cd keyword/
+cd go-keyword-analyzer/
+ls
+cd bin/
+./go-keyword-analyzer ~/linux/
+htop
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+nvim .
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+...
+cd go-keyword-analyzer/
+ls
+nvim .
+..
+ls
+git add ,
+git add .
+git commit -m "clean up - go"
+git push
+cd go-keyword-analyzer/
+ls
+cd bin
+ls
+./go-keyword-analyzer ~/linux/
+ls
+..
+ls
+nvim .
+..
+ks
+cd cpp-keyword-analyzer/
+ls
+nvim .
+..
+ks
+cd go-keyword-analyzer/
+ls
+nvim .
+ls
+nvim .
+ls
+cd keyword/go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+cd keyword/
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+...
+ls
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+ls
+...
+..
+ls
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+..
+ls
+cargo build --release
+cd target/release/
+./rust2-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer/
+ls
+cd bin/
+ls
+./go-keyword-analyzer ~/linux/
+....
+cd keyword/
+ls
+git add .
+git commint -m "lock free approach added to rust2"
+git commit -m "lock free approach added to rust2"
+git push
+ls
+git reset --hard main
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+gemini
+cd keyword/
+ls
+cd zig-keyword-analyzer/
+ls
+nvim .
+..
+cd go-keyword-analyzer/
+nvim .
+shutdown
+ls
+cd keyword/
+cd go-keyword-analyzer/
+ls
+go build
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+./main ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/sqlite/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/sqlite/
+cd ....
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+..
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+./main ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd go-keyword-analyzer/
+..
+cd odin-keyword-analyzer/
+nvim .
+..
+nvim .
+go build
+ls
+./go-keyword-analyzer ~/linux/
+nvim .
+go build
+ls
+./go-keyword-analyzer ~/linux/
+nvim .
+go build
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd go-keyword-analyzer/
+go build -ldflags="-s -w" -o bin/go-keyword-analyzer
+ls
+./go-keyword-analyzer ~/linux/
+ls
+cd keyword/
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+ls
+rm main_optimized
+rm main_original
+ls
+nvim .
+odin build main.odin -file -o:speed
+./main ~/linux/
+ls
+odin build main_optimized_backup.odin -file -o:speed
+ls
+./main_optimized_backup ~/linux/
+ls
+rm main_optimized_backup
+ls
+rm main_optimized_backup.odin
+ls
+..
+ls
+cd go-keyword-analyzer/
+ls
+nvim .
+ls
+cd keyword/
+cd zig-keyword-analyzer/
+nvim .
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+...
+nvim .
+ls
+cd keyword/
+ls
+cd ts-keyword-analyzer/
+ls
+cd bin/
+ls
+nvim .
+..
+ls
+nvim .
+ls
+bun run dev ~/linux/
+ls
+bun run dev ~/linux/
+cd keyword/
+ls
+cd ts-keyword-analyzer/
+nvim .
+..
+ls
+cd js-keyword-analyzer/
+ls
+bun run dev ~/linux/
+nvim .
+..
+git add .
+git commit -m "added a js and ts version performance is quite good"
+git push
+ls
+cd keyword/
+ls
+cd c2-keyword-analyzer/
+ls
+./c2-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+..
+ls
+...
+ls
+cd c2-keyword-analyzer/
+nvim .
+ls
+make release
+gcc main.c -o main
+ls
+./main ~/linux/
+nvim .
+gcc main.c -o main -std=c11 -Wall -Wextra -O3 -march=native -mtune=native -flto -DNDEBUG<\n>
+cd keyword/c2-keyword-analyzer/
+ls
+./main ~/linux/
+nvim .
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+cd keyword/
+ls
+cd c2-keyword-analyzer/
+;s
+ls
+./main ~/linux/
+./c2-keyword-analyzer ~/linux/
+nvim .
+..
+ks
+s
+ls
+cd zig-keyword-analyzer/
+nvim .
+..
+ls
+cd go-keyword-analyzer/
+nvim .
+ls
+./go-keyword-analyzer ~/linux/
+nvim .
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+ls
+cd c2-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+.....
+cd keyword/
+cd odin-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+reboot
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+....
+ls
+mkdir zig
+cd zig/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+nvim .
+ls
+zig build
+cd zig/
+ls
+cd ziglings/
+ls
+nvim .
+zig build
+ocaml
+cd keyword/
+ls
+cd go-keyword-analyzer/
+nvim .
+ls
+..
+ls
+mkdir ocaml
+cd ocaml/
+dune
+config env
+config cfg
+ls
+cd golang/
+ls
+..
+ls
+sudo pacman -S helix
+ls
+cd keyword/
+cd go-keyword-analyzer/
+ls
+...
+ls
+cd .config/
+ls
+cd helix/
+ls
+touch mytheme.toml
+nvim .
+helix .
+ls
+helix .
+ls
+..
+ls
+cd helix/
+ls
+touch config.toml
+nvim .
+helix .
+..
+ls
+cd golang/
+ls
+touch main.go
+helix .
+go run main.go
+nvim .
+helix .
+ls
+ls
+touch languages.toml
+ls
+helix .
+helix .
+ls
+helix .
+nvim .
+go run main.go
+ls
+nvim .
+cd golang/
+ls
+nvim .
+go run main.go
+ls
+..
+ls
+cd zig
+ls
+touch main.zig
+nvim 
+nvim .
+zig build-exe main.zig
+ls
+./main
+ls
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+ls
+..
+ls
+rm -rf golang/
+ls
+shutdown
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main ~/linux/
+nvim .
+..
+ls
+git add .
+git status
+git commit -m "upkeep"
+git push
+ls
+cd odin-keyword-analyzer/
+ls
+..
+cd Languages/
+cd odin/
+ls
+..
+ls
+cp odin ~/keyword/odin-keyword-analyzer/ -r
+..
+ls
+gemini
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+..
+ls
+git reset --hard main
+cd odin-keyword-analyzer/
+ls
+nvim .
+odin build main.odin -file -o:speed
+./main ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+ls
+..
+ls
+cd odin-keyword-analyzer/
+ls
+touch arena_example.odin
+nvim .
+ls
+cd keyword/odin-keyword-analyzer/
+ls
+./optimized ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+ls
+nvim .
+odin build optimized.odin -file -o:speed
+./optimized ~/linux/
+ls
+./optimized_clean ~/linux/
+ls
+./optimized ~/linux/
+ls
+./main ~/linux/
+./optimized_clean ~/linux/
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+rm arena_example.odin odin/ optimized optimized_clean
+rm -rf arena_example.odin odin/ optimized optimized_clean
+ls
+odin build optimized.odin -file -o:speed
+ls
+./optimized ~/linux/
+nvim .
+./optimized ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+ls
+..
+ls
+cd odin-keyword-analyzer/
+ls
+nvim .
+odin build o2.odin -file -o:speed
+ls
+./o2 ~/linux/
+ls
+./optimized ~/linux/
+./o2 ~/linux/
+ls
+:q
+..
+git add .
+git commit -m "optimized versions of odin"
+git push
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+nvim .
+ls
+./o2 ~/linux/
+..
+cd cpp-keyword-analyzer/
+ls
+./cpp-keyword-analyzer ~/linux/
+..
+cd rust2-keyword-analyzer/target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+ls
+cd Languages/
+ls
+rm -rf odin
+ls
+mv odin-linux-amd64-nightly+2025-08-05/ odin
+ls
+..
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+ls
+odin build o2.odin -file -o:speed
+ls
+./o2 ~/linux/
+shutdown
+cd keyword/
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+ls
+cd rust2-keyword-analyzer/
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+.....
+ls
+cd zig
+ls
+nvim .
+cd ziglings/
+nvim .
+zig build
+nvim 
+nvim  .
+zig build
+nvim .
+zig build
+nvim .
+zig build
+ls
+..
+ls
+nvim .
+shutdown
+ls
+cd zig/
+ls
+mkdir keyword-analyzer
+ccd keyword-analyzer/
+cd keyword-analyzer/
+zig init
+nvim .
+ls
+git init
+git commit -m "init"
+git add .
+git commit -m "init"
+ls
+nvim .
+ls
+zig build
+nvim .
+zig build
+nvim .
+zig build
+ls
+rm -rf zig
+cd keyword/
+cd odin-keyword-analyzer/
+./o2 ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+...
+..
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+...
+cd odin/
+ls
+nvim .
+ls
+..
+ls
+cd  keyword/
+ls
+cd c2-keyword-analyzer/
+ls
+./c2-keyword-analyzer ~/linux/
+nvim .
+..
+cd zig-keyword-analyzer/
+nvim .
+..
+ls
+cd go-keyword-analyzer/
+ls
+nvim .
+..
+.
+ls
+..
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+rm -rf odin
+ls
+mkdirgolang
+mkdir golang
+ls
+go version
+nvim .
+ls
+cd go-keyword-analyzer/
+cd keyword/go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+./go-keyword-analyzer ~/sqlite/
+...
+ls
+cd golang/
+touch main.go
+nvim .
+go run main.go
+ls
+nvim .
+go run main.go
+nvim .
+go run main.go
+ls
+cd golang/
+ls
+mkdir sub-c
+cd sub-c/
+touch main.go
+go mod init sub-c
+go mod tidy
+ls
+git init
+nvim .
+go run main.go
+ls
+git init
+git add .
+git commit -m "init"
+nvim .
+..
+ls
+rm -rf sub-c
+ls
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+ls
+nvim .
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/
+cd bin/
+./zig-keyword-analyzer ~/linux/
+....
+cd odin-keyword-analyzer/
+./o2 ~/linux/
+,,
+..
+ls
+cd c2-keyword-analyzer/
+ls
+./c2-keyword-analyzer ~/linux/
+nvim .
+..
+ls
+cd rust2-keyword-analyzer/
+ls
+nvim  .
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+gemini
+..
+ls
+gemini
+sudo npm install -g @google/gemini-cli
+ls
+..
+ls
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+ls
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+ls
+cd target/release/
+..
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/
+ls
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+ls
+cargo build --release
+..
+shutdown
+ls
+rm -rf golang/
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+..
+rm -rf odin/
+ls
+mkdir zig
+cd zig/
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main ~/linux/
+ls
+touch text.txt
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+zig build
+htop
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+shutdown
+ls
+cd zig/
+ls
+nvim .
+sudo timeshift --create
+ls
+sudo timeshift --create
+reboot
+sudo timeshift --create
+sudo pacman -Syu
+sudo timeshift --create
+ls -la /etc/lsb-release
+cat /etc/lsb-release
+cat /etc/os-release
+sudo tee /etc/lsb-release > /dev/null <<EOF<\n>DISTRIB_ID=Arch<\n>DISTRIB_RELEASE=rolling<\n>DISTRIB_CODENAME=n/a<\n>DISTRIB_DESCRIPTION="Arch Linux"<\n>EOF
+ls
+shutdown
+ls
+mkdir ghatgp
+ls
+mv ghatgp/ chatgpt
+cd chatgpt/
+touch main.c
+nvim .
+gcc -O3 -march=native -pthread -Wall -Wextra -std=c11 c_keyword_counter.c -o ckw<\n>
+ls
+gcc -O3 -march=native -pthread -Wall -Wextra -std=c11 main.c -o ckw<\n>
+nvim .
+gcc -O3 -march=native -pthread -Wall -Wextra -std=c11 main.c -o ckw<\n>
+ls
+./ckw ~/linux/ 16
+./ckw ~/linux/ 32
+./ckw ~/linux/ 16
+nvim .
+gcc -O3 -march=native -pthread -Wall -Wextra -std=c11 main.c -o ckw<\n>
+ls
+./ckw ~/linux/ 16
+..
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+cd c2-keyword-analyzer/
+ls
+nvim .
+..
+ls
+cd chatgpt/
+ls
+..
+ls
+cd Downloads/
+ls
+cd pokemon_chess_game/
+nvim .
+ls
+..
+ls
+shutdown
+ls
+cd zig/
+ls
+nvim .
+..
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/sqlite/
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+..
+ls
+cd chatgpt/
+ls
+./ckw ~/linux/ 16
+..
+ls
+shutdown
+ls
+mkdir odin
+cd odin/
+ls
+touch main.odin
+ls
+nvim ,
+ls
+nvim .
+odin run main.odin -file
+..
+ls
+cd zig/
+ls
+nvim .
+ls
+..
+ls
+shutdown
+ls
+cd odin/
+ls
+nvim .
+..
+cd zig/
+nvim .
+ls
+sudo timeshift --create
+ls
+sudo pacman -Syu
+s
+ls
+rm -rf sqlite/ zig/ odin/
+ls
+rm -rf chatgpt/
+ls
+mkdir gleam
+cd gleam/
+ls
+gleam new play
+cd play/
+gleam test
+nvim .
+gleam run
+ls
+nvim .
+..
+ls
+..
+ls
+rm -rf gleam
+mkdir odin
+ls
+cd odin
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+cd odin/
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+ls
+cargo version
+ls
+sudo timeshift --create
+ls
+sudo pacman -Syu
+reboot
+go version
+ls
+mdkir zig
+mkdir zig
+ls
+cd zig/
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+ls
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+..
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim  .
+go run main.go
+ls
+go run main.go
+ls
+..
+ls
+cd keyword/
+git status
+git add .
+git commit -m "i think im done"
+git push
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+yay -Syu
+sudo pacman -Rns allacrity
+sudo pacman -Rns alacritty
+sudo pacman -Rns basecamp
+ls
+cd odin/
+nvim .
+reboot
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+cd keyword/zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+cd keyword/odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+ls
+cd odin
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+ls
+..
+ls
+rm -rf zig/ golang/
+ls
+shutdown
+ls
+cd odin/
+ls
+nvim .
+shutdown
+ls
+cd odin/
+nvim .
+gemini
+sudo npm install -g @google/gemini-cli
+ls
+cd odin
+ls
+rm main.odin
+touch main.odin
+gemini
+ls
+rm -rf odin/
+ls
+mkdir golang
+ls
+cd golang/
+touch main.go
+nvim .
+go run main.go
+..
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+cd golang/
+ls
+nvim .
+go run main.go
+..
+ls
+cp -r ~/linux/ ~/linux/linux2
+cp -r ~/linux/ ~/linux2
+ls
+mv ~/linux2 ~/linux/
+ls
+cd linux/
+ls
+..
+cd keyword/
+ls
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+..
+l
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+shutdown -n
+shutdown n
+shutdown --n
+shutdown -c
+shutdown 
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+ls
+..
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+ls
+cd c2-keyword-analyzer/
+ls
+./main ~/linux/
+..
+ls
+cd keyword-analyzer/
+ls
+./keyword-analyzer analyze ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+ls
+cd js-keyword-analyzer/
+ls
+cd bin
+ls
+..
+ls
+bun run dev ~/linux/
+..
+cd keyword/
+ls
+cargo new rust3-keyword-analyzer
+ls
+cd rust3-keyword-analyzer/
+ls
+nvim ,.
+nvim .
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+./rust3-keyword-analyzer
+....
+ls
+cd rust3-keyword-analyzer/
+ls
+nvim .
+..
+ls
+rm -rf rust3-keyword-analyzer
+ls
+sudo npm install -g @anthropic-ai/claude-code
+claude
+ls
+claude
+ls
+cd keyword/
+ls
+cd rust2-keyword-analyzer/
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+....
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+cd rust2-keyword-analyzer/
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+..
+ls
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+..
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+...
+ls
+cargo build --release
+cd target/release/
+./rust2-keyword-analyzer ~/linux/
+....
+ls
+cd odin-keyword-analyzer/
+ls
+..
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd rust2-keyword-analyzer/
+ls
+cargo build --release
+cd target/release/
+ls
+./rust2-keyword-analyzer ~/linux/
+..
+cargo build --release
+ls
+cd target/release/
+./rust2-keyword-analyzer ~/linux/
+...
+cargo build --release
+cd target/release/
+./rust2-keyword-analyzer ~/linux/
+ls
+...
+ls
+..
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+cs js-keyword-analyzer/
+ls
+cd js-keyword-analyzer/
+ls
+bun run dev ~/linux/
+sudo timeshift --create
+sudo pacman -Syu
+shutdown 
+ls
+rm -rf golang/
+ls
+mkdir rust
+cd rust
+ls
+rustlings init
+ls
+rustup
+rustup update
+cargo version
+ls
+cd rust/
+ls
+cargo new play
+cd play/
+ls
+nvim .
+cargo run
+cargo build
+nvim .
+cargo build
+cargo run
+vd rust/
+cd rust/
+ls
+cd play/
+nvim .
+cargo build run
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+..
+ls
+mkdir c
+cd c
+touch main.c
+ls
+nvim .
+gcc main.c -o main
+ls
+./main
+ls
+nvim .
+gcc main.c -o main
+ls
+./main
+..
+ls
+rm -rf rust/ c/ 
+ls
+mkdir zig
+cd zig/
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+l
+ls
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+zig build-exe main.zig -Doptimizefast
+./main
+nvim .
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+ls
+zig build
+nviim .
+nvim  .
+zig build
+ls
+nvim .
+zig version
+cd Languages/
+ls
+rm -rf roc
+ls
+cd zig/
+ls
+..
+cd Downloads/
+ls
+rm -rf zig-x86_64-linux-0.15.0-dev.1564+2761cc8be.tar.xz
+ls
+mv zig-x86_64-linux-0.15.0-dev.1564+2761cc8be/ zig2
+ls
+mv zig2/ ~/Languages/
+..
+ka
+ks
+ls
+git clone https://github.com/zigtools/zls
+ls
+cd zls/
+ls
+zig build -Doptimize=ReleaseSafe
+config env
+zig build -Doptimize=ReleaseSafe
+cd Languages/
+ls
+cd zls/
+zig build -Doptimize=ReleaseSafe
+ls
+cd zig-out/bin/
+ls
+mv zls ~/Languages/zig2/
+ls
+...
+ls
+..
+ls
+rm -rf zls
+s
+ls
+zig version
+..
+cd zig/
+ls
+cd ziglings/
+ls
+zig build
+nvim .
+ls
+zig build
+shutdown 
+ls
+mkdir typescript
+ls
+cd typescript/
+touch main.ts
+ls
+nvim .
+bun run main.ts
+nvim .
+ls
+nvim .
+bun run main.ts
+nvim .
+sudo timeshift --create
+ls
+sudo pacman -Syu
+ls
+reboot
+ls
+shutdown 
+ls
+rm -rf zig typescript/
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim 
+nvim .
+odin run main.odin -file
+ls
+cd Downloads
+ls
+mv pokemon_chess_game ~/
+l
+ls
+..
+ls
+pokemon_chess_game/
+ls
+nvim .
+..
+ls
+mkdir web
+mv pokemon_chess_game/ ~/web
+ls
+cd web/pokemon_chess_game/
+ls
+..
+ls
+mkdir js
+cd js/
+touch main.js
+nvim .
+bun run main.js
+ls
+nvim .
+ls
+..
+ls
+rm -rf js
+ls
+mkdir ts
+cd ts/
+touch main.ts
+nvim .
+..
+ls
+..
+ls
+claude
+nvim
+ls
+cd odin/
+ls
+nvim .
+ls
+cd web
+ls
+mkdir wasm-demo
+cd wasm-demo/
+toush app.js
+touch app.js
+touch main.odin
+ls
+nvim .
+ls
+odin build .
+odin build main.odin -file -o:speed
+ls
+rm -rf web odin
+ls
+mkdir zig
+cd zig/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+ls
+nvim .
+zig build
+ls
+mkdir web
+ls
+mkdir rust
+cd rust/
+ls
+rustlings init
+ls
+nvim .
+ls
+cd rust/
+ls
+cd keyword/
+ls
+cd rust3-keyword-analyzer/
+ls
+cargo build --release
+ls
+cd target/release/
+ls
+./rust3-keyword-analyzer ~/linux/
+...
+..
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+..
+cd rust3-keyword-analyzer/
+ls
+cargo build --release
+cd target/release/
+;s
+ls
+./rust3-keyword-analyzer ~/linux/
+..
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+shutdown 
+sudo timeshift --create
+sudo pacman -Syu
+go version
+go
+ls
+rm -rf web
+ls
+rm -rf zig/
+rm -rf rust/
+ls
+mkdir golang
+ls
+cd golang/
+ls
+touch main.go\
+ls
+rm main.go\
+touch main.go
+nvim  .
+go run main.go
+ls
+sudo pacman -
+sudo pacman -S go
+sudo -Rns go
+sudo -R go
+sudo -Rn go
+sudo pacman -Rns go
+ls
+..
+ls
+go
+cd Downloads/
+ls
+cd go1.25.0.linux-amd64/
+ls
+mv go ~/languages/ 
+..
+cd Languages/
+ls
+..
+cd Downloads/
+ls
+cd go1.25.0.linux-amd64/
+ls
+..
+ls
+cd go/
+ls
+..
+ls
+cd Languages/
+ld
+ls
+cd odin
+ls
+..
+cd zig
+ls
+..
+ls
+cd zig2
+ls
+..
+ls
+cd Languages/
+ls
+cd go1.25.0.linux-amd64/
+ls
+mv go ~/Languages/
+..
+ls
+rm -rf go1.25.0.linux-amd64/
+ls
+config env
+cd go/
+ls
+..
+ls
+go
+ls
+go
+cd Languages/n
+cd Languages/
+nvim .
+..
+config env
+go
+go version
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+..
+ls
+cd go-keyword-analyzer/
+ls
+go build
+ls
+./go-keyword-analyzer ~/linux/
+..
+ls
+cd Languages/
+ls
+rm -rf zig
+ls
+mv zig2/ zig
+ls
+nvim .
+..
+ls
+cd golang/
+ls
+nvim  .
+go run main.go
+ls
+rm -rf golang/
+ls
+cd keyword/
+ls
+cd c2-keyword-analyzer/
+ls
+./main ~/linux/
+ls
+mkdir c
+ls
+cd c
+ls
+touch main.c
+nvim .
+gcc main.c -o main
+ls
+./main
+nvim .
+gcc main.c -o main
+./main
+nvim .
+ls
+./main
+gcc main.c -o main
+./main
+..
+shutdown
+ls
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+ls
+..
+...
+ls
+rm -rf c 
+cd keyword/
+ls
+git add ,
+git add .
+git commit -m "clean up"
+git push
+ls
+..
+ls
+mkdir zig
+cd zig/
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+l
+ls
+nvim .
+zig build
+config env
+zig build
+cd zig/ziglings/
+zig build
+..
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+nvim .
+shutdown
+ls
+mkdir rust
+cd rust/
+rustlings init
+ls
+cd rusltings
+ls
+cargo version
+ls
+..
+ls
+cd rust/
+ls
+cargo install create-tauri-app --locked
+cargo create-tauri-app
+ls
+cd chess/
+ls
+bun run tauri dev
+nvim .
+bun run tauri dev
+cargo install tauri-cli --version '^2.0.0' --locked
+bun run tauri dev
+cargo tauri dev
+ls
+nvim .
+..
+ls
+claude
+ls
+cd chess/
+ls
+cargo tauri dev
+ls
+cd rust/
+ls
+nvim .
+ls
+cargo install cargo-generate
+ls
+cargo generate ratatui/templates simple
+ls
+cd hello-ratatui/
+ls
+nvim .
+ls
+cargo run
+ls
+cargo run
+ls
+..
+ls
+rm -rf hello-ratatui/
+ls
+cargo new counter-app
+ls
+cd counter-app/
+ls
+cargo add ratatui crossterm
+ls
+nvim .
+cd rust/
+ls
+cd counter-app/
+ls
+cd rust/
+cd counter-app/
+ls
+nvim .
+nvim .
+cargo test
+ls
+mkdir golang
+cd golang/
+ls
+touch main.go
+nvim .
+go run main.go
+ls
+nvim .
+ls
+..
+cd keyword/
+ls
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+..
+ls
+..
+ls
+cd keyword/
+ls
+cd go-keyword-analyzer/
+nvim .
+ls
+shutdown
+ls
+cd golang/
+ls
+go install github.com/wailsapp/wails/v2/cmd/wails@latest
+ls
+wails doctor
+ls
+wails doctor
+ls
+sudo pacman -S --needed \<\n>  webkit2gtk-4.1 \<\n>  base-devel \<\n>  curl \<\n>  wget \<\n>  file \<\n>  openssl \<\n>  appmenu-gtk-module \<\n>  libappindicator-gtk3 \<\n>  librsvg \<\n>  xdotool
+sudo pacman -S webkitgtk-4.1
+ls
+rm -rf golang/ rust/ zig/
+ls
+mkdir c
+cd c
+ls
+touch main.c
+nvim .
+gcc main.c -o main
+ls
+./main
+nvim .
+gcc main.c -o main
+./main
+cd c
+ls
+nvim .
+rm main.c
+lls
+ls
+rm main
+ls
+mkdir hash
+cd hash/
+ls
+mkdir build
+mkdir src
+cd src
+ls
+touch hash_table.c hash_table.h prime.c prome.h
+..
+cd hash/
+ls
+rm -rf c
+ls
+mkdir odin
+ls
+cd odin
+touch main.odin
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main
+ls
+rm -rf odin
+ls
+mkdir rust
+ls
+cd rust/
+ls
+rustlings init
+ls
+cd rust/
+ls
+cd rust/
+ls
+cd rustlings/
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+curl -fsSL https://opencode.ai/install | bash
+nvim
+config env
+ls
+rm -rf linux-test/
+cd keyword/
+ls
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+....
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+ls
+rm -rf rust/
+ls
+mkdir golang
+ls
+cd golang/
+ls
+touch main.go
+nvim .
+go run main.go
+ls
+cd golang/
+ls
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+shutdown
+ls
+rm -rf golang/
+;s
+ls
+mkdir rust
+ls
+cd rust/
+cargo new play
+cd play/
+ls
+nvim .
+cargo run
+ls
+nvim .
+:..
+..
+ls
+rustlings init
+ls
+cd rustlings/
+ls
+nvim .
+rustlings
+ls
+cd rust/
+ls
+cd rustlings/
+ls
+rustlings
+ls
+nvim .
+ls
+ld
+ls
+cd rust/
+ls
+cd play/
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo fmt
+cargo run
+nvim .
+cargo build
+nvim .
+cargo fmt
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+ls
+shutdown
+ls
+mkdir zig
+cd zig/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+ls
+nvim .
+zig build
+nvim .
+ls
+..
+ls
+touch main.zig
+ls
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+nvim .
+ls
+rm -rf zig/ rust/
+ls
+sudo pacman -S just
+ls
+mkdir c
+cd c
+ls
+touch main.c
+ls
+touch justfile
+ls
+nvim .
+build
+just build
+nvim .
+just build
+nvim .
+just build
+nvim .
+just build
+ls
+nvim .
+just run
+ls
+rm main
+just run
+ls
+nvim .
+just run
+ls
+clean
+just clean
+ls
+just run
+ls
+just clean
+ls
+nvim .
+just --list
+debug
+just debug
+nvim .
+ls
+just debug
+nvim .
+ls
+just clean
+ls
+just debug
+ls
+./main
+ls
+nvim .
+ls
+just clean
+ls
+just run
+ls
+nvim .
+..
+ls
+mdkir rust
+mkdir rust
+cd rust/
+rustling init
+rustlings init
+ls
+mkdir golang
+ls
+cd golang/
+ls
+touch main.go
+nvim .
+go run main.go
+ls
+nvim .
+go run main.go
+nvim .
+ls
+rm main.go
+ls
+..
+ls
+cd c/
+ls
+nvim .
+ls
+nvim .
+..
+ls
+cd golang/
+ls
+touch main.go
+nvim .
+touch justfile
+nvim .
+just run
+ls
+just --list
+just run
+s
+ls
+nvim .
+ls
+just build
+go mod init main
+go mod tidy
+ls
+just build
+ls
+./main
+ls
+nvim .
+ls
+mkdir odin
+cd odin/
+ls
+touch main.odin
+nvim .
+touch justfile
+ls
+..
+ls
+cd c
+ls
+nvim .
+..
+cd odin/
+ls
+nvim .
+just build
+ls
+nvim .
+just run
+ls
+nvim .
+just opt
+ls
+nvim .
+just run
+nvim .
+just run
+nvim .
+:q
+cd odin/
+ls
+nvim .
+:..
+..
+ls
+rm -rf odin
+ls
+rm -rf golang/
+ls
+cd rust/
+ls
+cargo new play
+ls
+cd play/
+ls
+touch justfile
+...
+ls
+cd c/
+ls
+nvim .
+nvim .
+jusr run
+just run
+ls
+cd target/
+..
+ls
+nvim .
+just rel
+ls
+nvim .
+..
+ls
+mkdir typescript
+ls
+cd typescript/
+touch main.ts
+nvim .
+touch justfile
+nvim .
+just run
+ls
+..
+ls
+cd c/
+ls
+nvim .
+just run
+just build
+just run
+nvim .
+just build
+just run
+nvim .
+just run
+ls
+rm -rf typescript/
+ls
+rm -rf rust/
+ls
+mkdir golang
+cd golang/
+ls
+touch main.go
+touch just
+ls
+mv just justfile
+ls
+nvim .
+just run
+..
+ls
+mkdir zig
+ls
+cd zig
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+nvim .
+zig build
+nvim .
+ls
+cd zig/
+ls
+mkdir play
+ls
+cd play/
+zig init
+ls
+touch justfile
+nvim .
+zig build
+just build
+ls
+nvim .
+just op
+just opt
+zig build
+ls
+just build
+nvim .
+just build
+nvim .
+just op
+just opt
+nvim .
+just fmt
+nvim .
+just test
+ls
+just clean
+ls
+nvim .
+zig test
+zig
+ls
+nvim .
+j fast
+nvim .
+j fast
+nvim .
+shutdown
+ls
+mkdir typescript
+ls
+cd typescript/
+bunx create-effect-app@latest
+ls
+cd effect-app/
+ls
+nvim .
+bun run dev
+ls
+..
+ls
+rm -rf effect-app/
+ls
+mkdir hello-effect
+cd hello-effect/
+bun init
+ls
+nvim .
+ls
+bun add effect
+ls
+nvim .
+bun index.ts
+nvim .
+..
+ls
+bunx create-effect-app@latest
+ls
+cd my-app/
+nvim .
+ls
+bun add effect
+bun pm untrusted
+bun pm trust
+bun pm trust --all
+ls
+nvim .
+ls
+nvim .
+bun run
+bun run dev
+ls
+cd src/
+ls
+bun bin.ts
+..
+ls
+cd src
+bun Cli.ts
+ls
+..
+ls
+cd my-app/
+ls
+nvim .
+ls
+..
+l
+s..
+ls
+..
+ls
+rm -rf typescript/
+s
+ls
+cd golang/
+ls
+nvim .
+..
+ls
+cd linux/
+ls
+rm -rf linux2/
+ls
+..
+ls
+cd keyword/
+cd go-keyword-analyzer/
+ls
+./go-keyword-analyzer ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+....
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+ls
+..
+ls
+cd c
+ls
+nvim .
+..
+ls
+rm -rf c
+ls
+cd golang/
+ls
+nvim .
+just run
+ls
+nvim .
+ls
+cd golang/
+ls
+nvim .
+ls
+rm main.go
+ls
+rm justfile
+ls
+mkdir pcli
+ls
+cd pcli/
+touch main.go
+nvim .
+just run
+nvim .
+just run
+nvim .
+shutdown
+ls
+mkdir typescript
+cd typescript/
+ls
+touch main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+..
+cd keyword/
+ls
+cd ts-keyword-analyzer/
+ls
+nvim .
+..
+ls
+cd js-keyword-analyzer/
+nvim .
+ls
+bun run dev ~/linux/
+..
+ls
+cd go-keyword-analyzer/
+./go-keyword-analyzer ~/linux/
+shutdown
+ls
+cd zig/
+ls
+cd play/
+ls
+..
+ls
+.touch main.zig
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+zig version
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+rm main
+ls
+nvim .
+zig build-exe main.zig -Doptimizefast
+nvim .
+..
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+cd odin && nvim .
+cd odin and nvim .
+cd odin
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main
+nvim .
+odin build main.odin -file -o:speed
+./main
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main
+nvim .
+..
+cd keyword/
+ls
+cd odin-keyword-analyzer
+nvim .
+...
+ls
+rm -rf zig/
+ls
+rm -rf golang/
+ls
+rm -rf od
+rm -rf odin
+ks
+ls
+cd typescript/
+ls
+nvim .
+bun main.ts
+nvim .
+bun
+ls
+bun build main.ts
+ls
+bun upgrade
+bun version
+bun
+ls
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun
+bun main.ts
+nvim .
+bun main.ts
+nvim .
+bun main.ts
+ls
+mkdir gleam
+cd gleam/
+ls
+gleam version
+gleam new play
+cd play/
+gleam test
+ls
+nvim .
+gleam run
+ls
+elixir
+elixir --version
+ls
+mkdir elixir
+cd elixir
+ls
+mix -S play
+mix new play
+cd play/
+ls
+mix test
+nvim .
+ls
+..
+,,
+..
+ls
+rm -rf elixir/ gleam/
+ls
+rm -rf typescript/
+ls
+mkdir golang
+ls
+cd golang/
+ls
+touch main.go
+nvim .
+go run main.go
+lls
+ls
+rm -rf golang/
+ls
+mkdir typescript
+ls
+sudo timeshift --create
+sudo pacman -Syuy
+sudo pacman -Syu
+shutdown
+ls
+mkdir cpp
+cd cpp
+ls
+touch main.cpp
+nvim .
+zig 
+zig c++ -std=c++23 main.cpp -o program
+ls
+./program
+nvim .
+zig c++ -std=c++23 main.cpp -o program
+nvim .
+./program
+nvim
+nvim .
+zig c++ -std=c++23 main.cpp -o program
+./program
+ls
+touch .clangd
+nvim .
+nvim
+cd cpp
+ls
+..
+nvim .config/nvim/
+nvim .
+ls
+nvim .
+ls
+rm program
+ls
+zig c++ -std=c++23 main.cpp -o main
+ls
+touch justfile
+nvim .
+just run
+just comp
+ls
+nvim .
+just comp
+just run
+nvim .
+just comp
+just run
+nvim .
+ls
+just comp
+just run
+nvim .
+shutdown
+ls
+cd cpp
+ls
+nvim .
+just comp
+ls
+just run
+nvim .
+jsut comp
+just comp
+just run
+nvim .
+..
+l
+sls
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+..
+ls
+rm -rf odin/
+ls
+cd cpp
+ls
+nvim .
+..
+ls
+mkdir zig
+cd zig/
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+cd ziglings/
+ls
+nvim .
+ls
+zig build
+..
+ls
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+ls
+rm -rf zig typescript/ 
+ls
+cd cpp
+ls
+nvim .
+just comp
+ls
+./main
+nvvim  .
+nvim .
+just comp
+just run
+nvim .
+just comp
+just run
+nvim .
+just comp
+just run
+nvim .
+just comp
+just run
+nvim .
+just comp
+just run
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+emacs
+sudo pacman -S emacs
+emacs
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+~/.config/emacs/bin/doom install
+doom run
+ls
+nvim ,
+ls
+rm -rf cpp
+ls
+mkdir rust
+ls
+cd rust/
+cargo new play
+nvim .
+cargo run
+cd play/
+cargo run
+nvim .
+ls
+cd rust
+ls
+cargo new lists
+cd lsit
+cd lists
+ls
+nvim ..
+nvim .
+cargo build
+nvim .
+:q
+lnvim .
+nvim .
+:q
+ls
+nvim .
+nvim ,
+nvim .
+claude
+nvim .
+shutdown
+ls
+cd rust/
+ls
+rustlings init
+ls
+cd rustlings/
+ls
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+shutdown
+ls
+cd rust/
+ls
+cd lists/
+ls
+nvim .
+..
+ls
+nvim .config/nvim/
+nvim 
+ghostty +list-themes<\n>
+ls
+nvim
+ls
+cd rust/
+ls
+cd play/
+ls
+nvim .config/nvim/
+ls
+nvim .
+ls
+cd .config/nvim
+ls
+git add .
+git commit -m "theme"
+git commit -m "theme , w/ ghostty theme being ayu mirage"
+git statuss
+git status
+ls
+git push
+ls
+..
+nvim .
+..
+nvim .
+nvim  .
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main
+ls
+rm main
+ls
+cd .config/nvim
+ls
+git add .
+git commit -m "theme , w/ ghostty theme comment in theme.lua"
+git push
+ls
+cd rust/
+ls
+cd rustlings/
+nvim .
+shutdown
+ls
+cd rust/rustlings/
+ls
+nvim .
+rustlings
+ls
+cd odin
+ls
+nvim .
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+./o2 ~/linux/
+..
+cd zig-keyword-analyzer/zig-out/bin/
+ls
+./zig-keyword-analyzer ~/linux/
+..
+ls
+.....
+ls
+cd justin/
+ls
+sudo timeshift --create
+ls
+sudo pacman -Syu
+ls
+cd keyword/zig-keyword-analyzer/zig-out/bin/
+./zig-keyword-analyzer ~/linux/
+..
+...
+cd odin-keyword-analyzer/
+./o2 ~/linux/
+..
+ls
+mkdir asm
+touch hello.s
+ls
+rm hello.s
+cd asm
+touch hello.s
+nvim .
+gcc -nostdlib hello.s -o hello
+gcc -nostdlib -no-pie hello.s -o hello
+ls
+./hello
+nvim .
+nvim
+ping https://github.com/rebelot/kanagawa.nvim
+ping google.com
+ping github.com
+ping https://github.com/rebelot/kanagawa.nvim
+curl -I https://github.com/rebelot/kanagawa.nvim
+rm -rf ~/.local/share/nvim/lazy/<\n># Then restart nvim and let it reinstall
+ls
+nvim
+nvim .config/nvim/
+nvim
+cd rust/rustlings/
+nvim .
+ls
+...
+ls
+lsl
+ls
+cd asm
+nvim .
+ls
+rm -rf asm
+mkdir c
+cd c
+touch main.c
+nvim .
+gcc main.c -o main
+ls
+./main
+nvim .
+shutdown
+ls
+cd rust/
+ls
+git clone https://github.com/casey/just.git
+ls
+cd just/
+nvim .
+ls
+sudo timeshift --create
+sudo pacman -Syu
+ls
+cd odin/
+nvim 
+shutdown
+ls
+sudo pacman -S steam
+nvim /etc/pacman.conf
+sudo nvim /etc/pacman.conf
+sudo pacman -S lib32-nvidia-utils
+sudo pacman -Sy
+ls
+sudo pacman -S steam
+yay -S steam-native-runtime<\n>
+sudo pacman -S steam
+sudo pacman -S steam --overwrite /etc/lsb-release
+nmtui
+reboot
+ls
+yay -Rns steam
+ls
+cd c/
+ls
+nvim .
+shutdown
+ls
+cd odin/
+nvim .
+ls
+cd rust/
+ls
+cd c
+ls
+nvim .
+ls
+mkdir golang
+cd golang/
+ls
+touch main.go
+ls
+nvim .
+go run main.go
+ls
+nvim .
+ls
+shutdown
+ls
+rm -rf golang/
+ls
+rm -rf odin c 
+ls
+nvim .
+sudo timeshift --create
+sudo pacman -Syu
+ls
+reboot
+ls
+cd rust
+ls
+cd play
+nvim .
+..
+ls
+zig
+zig version
+..
+ls
+mkdir zig
+cd zig/
+touch main.zig
+nvim .
+zig build-exe main.zig -Doptimizefast
+ls
+./main
+ls
+rm -rf zig/
+ls
+cd rust/
+ls
+..
+ls
+mkdir golang
+cd golang/
+touch main.go
+nvim .
+go run
+go run main.go
+ls
+nvim .
+..
+ls
+shutdown
+ls
+cd golang/
+nvim .
+gleam version
+gleam
+gleam -V
+ls
+rm -rf linux/
+ls
+cd keyword/
+ls
+git add .
+git status
+git commit -m "clean up"
+git push
+ls
+...
+ld
+cd justin/
+ls
+Lls
+ls
+mkdir svelte
+cd svelte/
+node
+ls
+nvim .
+ls
+rm -rf svelte/
+ls
+mkdir javascript
+cd javascript/
+touch main.js
+nvim .
+bun main.js
+nvim .
+ls
+cd javascript/
+nvim .
+bun main.js
+nvim .
+bun main.js
+nvim .
+ls
+..
+ls
+rm -rf javascript/
+ls
+gleam
+gleam --version
+sudo pacman -Syu
+lls
+ls
+htop
+btop
+shutdown
+sudo pacman -S steam
+<\n><\n><\n><\n>
+nvim
+ls
+shutdown
+ls
+cd rust/
+ls
+htop
+ls
+cargo version
+rustup update
+ls
+;s
+ls
+cd golang/
+ls
+nvim .
+nvim .config/nvim/
+cd
+ls
+nvim .config/nvim/
+ls
+cd .config/
+cd nvim/
+nvim .
+nvim
+ls
+git add .
+git commit -m "clean up"
+git push
+nvim .
+jjls
+ls
+cd Languages/
+ls
+cd rust/
+..
+ls
+cd .local/
+cd share/
+cd nvim/lazy/
+ls
+rm -rf LuaSnip/
+ls
+nvim
+sudo timeshift --create
+sudo pacman -Syu
+reboot
+ls
+cd benchmark/
+ls
+cd nbody/
+ls
+cd ..
+ls
+..
+ls
+nvim
+ls
+cd golang/
+ls
+nvim .
+..
+ls
+nvim .config/nvim/
+ls
+cd golang/
+ls
+cd rust/
+nvim .
+rm -rf rustlings/
+rustlings init
+ls
+nvim
+ls
+zig version
+ls
+cd rust/
+ls
+cd lists/
+ls
+...
+ls
+nvim .config/nvim/
+nvim .
+...
+cd golang/
+ls
+nvim .
+..
+cd rust/
+nvim .
+ls
+odin
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin run main.odin -file
+nvim .
+odin build main.odin -file -o:speed
+ls
+./main hello     world
+./main hello
+./main hello     world                lol
+nvim .
+..
+ls
+rm -rf odin/
+ls
+cd rust/
+ls
+mkdir programming_rust
+cd programming_rust/
+cargo new hello
+nvim .
+cargo run
+ls
+rm -rf target/
+cd hello/
+ls
+cargo run
+ls
+cd target/
+ls
+cd debug/
+ls
+./hello
+...
+ls
+cargo clean
+ls
+cargo run
+ls
+cargo clean
+ls
+nvim .
+...
+..
+ls
+cd golang/
+nvim .
+shutdown
+ls
+cd rust/
+ls
+cd programming_rust/
+ls
+nvim .
+cargo build
+ls
+rm -rf target/
+cd hello/
+l
+ls
+cargo build
+nvim .
+cargo build
+nvim .
+cargo build
+nvim .
+cargo test
+s
+ls
+cd golang/
+ls
+nvim .
+go run main.go
+ls
+..
+ls
+mkdir odin
+cd odin
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+btop
+htop
+neofetch
+fetch
+fastfetch
+nvim .
+ls
+..
+ls
+rm -rf odin
+ls
+touch main.zig
+nvim .
+ls
+git clone https://github.com/zigtools/zls
+ls
+cd zls/
+zig build -Doptimize=ReleaseSafe
+ks
+ls
+zig version
+nvim .
+ls
+zig build -Doptimize=ReleaseSafe
+ls
+cd zls
+zig build -Doptimize=ReleaseSafe
+..
+ls
+rm -rf zls
+ls
+nvim .
+zig run main.zig
+ls
+l
+ls
+rm main.zig
+ls
+zig version
+Lls
+ls
+cd rust/
+ls
+rm -rf target/
+cd programming_rust/
+ls
+cd hello
+nvim .
+cargo test
+cargo build
+ls
+cargo clean
+ls
+..
+ls
+..
+ls
+cd just/
+nvim .
+ls
+..
+ls
+cd lists/
+ls
+nvim 
+cd rust/
+ls
+rm -rf just/ lists/
+ls
+..
+ls
+git clone https://github.com/zigtools/zls
+ls
+cd zls/
+zig build -Doptimize=ReleaseSafe
+ls
+zig version
+ls
+git pull origin master
+zig version
+..
+ls
+rm -rf zls
+ls
+nvim .
+..
+cd rust
+ls
+cd play/
+ls
+rm -rf target/
+nvim .
+cargor un
+cargo run
+nvim .
+cargo run
+nvim .
+cargo run
+nvim .
+cargo fmt
+cargo run
+nvim .
+ls
+cargo clean
+ls
+..
+ls
+.
+..
+ls
+cd golang/
+nvim .
+go run main.go
+ls
+nvim .
+go run main.go
+nvim .
+go run main.go
+nvim .
+ls
+..
+ls
+rm -rf golang/
+ls
+cd rust/
+ls
+cd rustlings/
+ls
+..
+ls
+s
+ls
+cd programming_rust/
+nvim .
+...
+ls
+mkdir zig
+cd zig/
+touch main.zig
+nvim .
+zig run main.zig
+nvim .
+zig run main.zig
+ls
+touch meow.txt
+nvim .
+zig run main.zig
+zig run main.zig meow.txt
+nvim .
+zig run main.zig
+ls
+zig run main.zig
+ls
+zig version
+zig run main.zig
+nvim .
+zig run main.zig
+ls
+zig run main.zig
+nvim .
+sudo timeshift --create
+ls
+sudo pacman -Syu
+ls
+fastfetch
+shutdown
+ls
+gleam --version
+cd zig
+ls
+nvim .
+ls
+git clone https://codeberg.org/ziglings/exercises.git ziglings
+ls
+cd ziglings/
+zig build
+ls
+zig version
+ls
+..
+ls
+cd ziglings/
+ls
+zig build
+nvim .
+ls
+zig build
+nvim .
+...
+ls
+mkdir ts
+cd ts
+touch main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+..
+nvim .config/nvim/
+nvim .
+..
+cd rust/
+ls
+nvim .
+..
+ls
+cd ts
+nvim .
+ls
+bun run main.ts
+nvim .
+bun run main.ts
+nvim .
+bun run main.ts
+ls
+nvim .
+..
+ls
+cd ts
+ls
+helix .
+..
+ls
+mkdir golang
+cd golang/
+touch main.go
+helix .
+go run main.go
+ls
+nvim .
+go version
+gopls
+sudo pacman -S gopls
+..
+cd Languages/
+ls
+rm -rf go
+go version
+gopls
+helix .
+go run main.go
+nvim .
+ls
+nvim 
+ls
+lls
+nvim .
+ls
+cd zig
+ls
+nvim .
+ls
+cd rust/
+nvim .
+shutdown
+ls
+rm -rf ts
+ls
+mkdir odin
+cd odin/
+touch main.odin
+nvim .
+odin run main.odin -file
+ls
+..
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+ls
+rm main o2 optimized
+ls
+nvim .
+ls
+odin build o2.odin -file -o:speed
+ls
+./o2
+./o2 ~/keyword/
+..
+ls
+git clone https://github.com/sqlite/sqlite.git
+ls
+cd keyword/
+ls
+cd odin-keyword-analyzer/
+./o2 ~/sqlite/
+..
+ls
+cd zig-keyword-analyzer/
+ls
+cd zig-out/bin/
+ls
+./zig-keyword-analyzer ~/sqlite/
+...
+ls
+..
+ls
+cd odin-keyword-analyzer/
+nvim .
+ls
+./o2 ~/sqlite/
+..
+ls
+cd go-keyword-analyzer/
+ls
+nvim .
+ls
+rm go-keyword-analyzer
+ls
+nvim .
+go build.sh
+go build
+ls
+./go-keyword-analyzer ~/sqlite/
+..
+ls
+cd rust3-keyword-analyzer/
+ls
+cd target/
+ls
+cd release/
+ls
+./rust3-keyword-analyzer ~/sqlite/
+...
+ls
+nvim .
+..
+ls
+cd zig-keyword-analyzer/
+ls
+nvim .
+ls
+cd zig-out/
+ls
+cd bin/
+ls
+./zig-keyword-analyzer ~/sqlite/
+..
+ls
+...
+ls
+claude
+claude-code
+npm install -g @anthropic-ai/claude-code
+sudo npm install -g @anthropic-ai/claude-code
+claude
+ls
+..
+ls
+cd zig
+ls
+zig version
+zig run main.zig
+ls
+cd ziglings/
+ls
+nvim .
+cd .config/nvim/
+ls
+git pull --rebase origin master
+git add .
+git commit -m "clean up"
+git pull --rebase origin master
+nvim .
+git pull --rebase origin master
+ls
+nvim .
+ls
+git add .
+git commit -m "clean up"
+git push
+shutdown
+ls
+cd zig/
+ls
+nvim .
+..
+ls
+cd odin
+nvim .
+odin run main.odin -file
+ls
+nvim .
+ls
+cd golang/
+nvim .
+ls
+nvim
+ls
+mkdir dotfiles
+cd dotfiles/
+l
+ls
+git init
+ls
+..
+ls
+cd .config/
+ls
+cp -r ~/.config/ghostty .
+ls
+cd ghostty/
+nvim .
+ls
+..
+ls
+cd hypr/
+ls
+nvim .
+cp -r ~/.config/hypr .
+ls
+..
+ls
+cd wofi/
+nvim .
+..
+ls
+cd waybar/
+nvim .
+cp -r ~/.config/wofi .
+cp -r ~/.config/waybar .
+ls
+..
+ls
+cd pulse/
+ls
+..
+ls
