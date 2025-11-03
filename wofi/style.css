@@ -1,1 +1,43 @@
-/home/justin/.config/omarchy/current/theme/wofi.css
+/* Minimal Wofi Style - Structure Only, Colors from GTK Theme */
+
+* {
+    font-size: 20px;
+}
+
+window {
+    margin: 0px;
+    border-radius: 12px;
+}
+
+#input {
+    margin: 10px;
+    padding: 12px;
+    border-radius: 8px;
+}
+
+#inner-box {
+    margin: 5px;
+    padding: 10px;
+}
+
+#outer-box {
+    margin: 5px;
+    padding: 10px;
+}
+
+#scroll {
+    margin: 0px;
+    padding: 5px;
+}
+
+#text {
+    margin: 5px;
+    padding: 5px;
+}
+
+#entry {
+    padding: 8px;
+    margin: 4px;
+    border-radius: 6px;
+}
+
